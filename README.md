@@ -1,7 +1,7 @@
 <h1> WineFlow </h1>
 
 <h2>¿En qué consiste el proyecto?</h2>
-<p>A partir del trabajo de la asignatura de Sistemas de Gestión y Business Intelligence, hemos desarrollado un sistema de reconocimiento de caracteres en imágenes para llevar a cabo ideas mayores. En este caso, nos gustaría alcanzar el reconocimiento de botellas de vinos a través de una imagen, esto unido a la búsqueda con nombre, detalles y características. Las posibilidades a partir de aquí son muchas.</p>
+<p>A partir del trabajo de la asignatura de Sistemas de Información de Gestión y Bussiness Intelligence, hemos desarrollado un sistema de reconocimiento de caracteres en imágenes para llevar a cabo ideas mayores. En este caso, nos gustaría alcanzar el reconocimiento de botellas de vino a través de una imagen, todo esto unido a la búsqueda con nombre, detalles y características. Las posibilidades a partir de aquí son muchas.</p>
 
 <h2>Estructura del proyecto</h2>
 <p>Debido a la magnitud, hemos estructurado el proyecto en distintas fases:
