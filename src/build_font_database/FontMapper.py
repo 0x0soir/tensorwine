@@ -61,7 +61,7 @@ class FontMapper:
                 os.mkdir(d)
 
         for font in glob.glob(self.__FONTS_DIR+'/*.ttf'):
-            ttf = TTFont(font, 0, allowVID=0, ignoreDecompileErrors=True, fontNumber=-1)
+            ttf = TTFont(font, 0, allowVID=0, ignoreDecompileErrors=True, fontNumber=0)
             font_name = os.path.basename(os.path.splitext(font)[0])
 
             if not os.path.exists(self.__TEXT_DIR + '/' + font_name):
@@ -92,7 +92,7 @@ class FontMapper:
             for file_txt in glob.glob(self.__TEXT_DIR+"/"+file_dir+'/*.txt'):
                 input_txt   = file_txt
                 output_png  = self.__IMAGES_DIR + "/"+file_dir+"/"+os.path.basename(os.path.splitext(input_txt)[0])+".png"
-                subprocess.call(["convert", "-font", self.__FONTS_DIR+"/"+file_dir+".ttf", "-size", "130x130", "-gravity", "center", "-pointsize", self.__CHAR_SIZE, "-background", "rgba(0,0,0,0)", "label:@" + input_txt, output_png])
+                subprocess.call(["convert", "-font", self.__FONTS_DIR+"/"+file_dir+".ttf", "-size", "24x24", "-fill", "white", "-gravity", "center", "-pointsize", self.__CHAR_SIZE, "-background", "black", "label:@" + input_txt, output_png])
 
             print(
                 OKGREEN +
