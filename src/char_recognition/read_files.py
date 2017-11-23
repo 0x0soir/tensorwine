@@ -20,7 +20,7 @@ class Folder:
 files = []
 folders = []
 
-for file in glob.glob('../../build_font_database/'+os.sep+'images'+os.sep+'*'+os.sep+'*.png'):
+for file in glob.glob('../build_font_database/'+os.sep+'images'+os.sep+'*'+os.sep+'*.png'):
     f = File(file)
     #print("{} {}".format(f.folder, f.name))
     files.append(f)
@@ -34,7 +34,7 @@ for file in glob.glob('../../build_font_database/'+os.sep+'images'+os.sep+'*'+os
         folders.append(fold)
         fold.files.append(f)
 
-for file in glob.glob('../../build_font_database/'+os.sep+'Otras'+os.sep+'*.png'):
+for file in glob.glob('../build_font_database/'+os.sep+'Otras'+os.sep+'*.png'):
     f = File(file)
     #print("{} {}".format(f.folder, f.name))
     files.append(f)
