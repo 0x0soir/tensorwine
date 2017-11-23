@@ -1,0 +1,2 @@
+model_checkpoint_path: "denseConv0.ckpt-0"
+all_model_checkpoint_paths: "denseConv0.ckpt-0"
