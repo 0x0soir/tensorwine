@@ -1,0 +1,5 @@
+wxPython
+tensorflow
+dill
+pil
+numpy

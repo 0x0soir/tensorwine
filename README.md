@@ -18,5 +18,12 @@
   <li>Unión de las fases anteriores</li>
 </ol>
 
+<h2>Consideraciones de ejecución</h2>
+<p>El proyecto tiene una serie de dependencias de librerías externas, para instalarlas ejecutar:</p>
+<code>pip install -r requirements.txt</code>
+
+<p>En caso de utilizar Python 3:</p>
+<code>pip3 install -r requirements.txt</code>
+
 <h2>Más información</h2>
 <p>Para aprender lo básico de TensorFlow, visita nuestra página <a href="https://tensor4dummies.github.io/">Tensor4Dummies</a></p>
