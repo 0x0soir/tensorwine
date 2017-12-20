@@ -3,6 +3,7 @@
         "detailed": {
             "info_alcohol": "14,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Ribera del Duero",
             "info_elaboration": "Envejecimiento: Envejecido durante 12 meses en barricas de roble.",
             "info_grape": "Tempranillo y Merlot",
             "info_owner": "Bodegas Montebaco",
@@ -22,6 +23,7 @@
         "detailed": {
             "info_alcohol": "14,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Rioja",
             "info_elaboration": "Envejecimiento: Envejecido durante 12 meses en barricas de roble francés y americano.",
             "info_grape": "Garnacha y Tempranillo",
             "info_owner": "Bodegas Palacios Remondo",
@@ -40,6 +42,7 @@
         "detailed": {
             "info_alcohol": "15,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Ribera del Duero",
             "info_elaboration": "Material de vinificación: Acero inoxidable Período de crianza: 12 meses Edad de las barricas: Nuevas y usadas Tipo de madera: Roble francés y americano Producción: 600000 botellas",
             "info_grape": "Tempranillo,   Cabernet Sauvignon y Merlot",
             "info_owner": "Pago de Carraovejas",
@@ -59,6 +62,7 @@
         "detailed": {
             "info_alcohol": "13,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Rioja",
             "info_elaboration": "Envejecimiento: Envejecido durante 12-14 meses en barricas de roble francés y americano.",
             "info_grape": "Tempranillo,   Garnacha y Graciano",
             "info_owner": "Bodega Classica",
@@ -77,6 +81,7 @@
         "detailed": {
             "info_alcohol": "13,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Rioja",
             "info_elaboration": "Envejecimiento: Envejecido durante 12 meses en barricas de roble.",
             "info_grape": "Tempranillo,   Garnacha y Mazuelo",
             "info_owner": "Compañía Vinícola del Norte de España - CVNE",
@@ -96,6 +101,7 @@
         "detailed": {
             "info_alcohol": "13,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Rioja",
             "info_elaboration": "Material de vinificación: Madera Período de crianza: 30 - 36 meses Edad de las barricas: Seminuevas Tipo de madera: Roble americano Producción: 600000 botellas",
             "info_grape": "Tempranillo y Garnacha",
             "info_owner": "La Rioja Alta",
@@ -115,6 +121,7 @@
         "detailed": {
             "info_alcohol": "13,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Ribera del Duero",
             "info_elaboration": "Envejecimiento: Envejecido durante 12 meses en barricas nuevas y seminuevas de roble francés. Posteriormente reposa durante doce meses más en botella.",
             "info_grape": "Tempranillo",
             "info_owner": "Pago de los Capellanes",
@@ -134,6 +141,7 @@
         "detailed": {
             "info_alcohol": "13,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Rueda",
             "info_grape": "Verdejo",
             "info_owner": "Bodegas José Pariente ",
             "info_recommendations": "Temperatura de servicio óptima: Entre 6ºC y 8ºC",
@@ -151,6 +159,7 @@
         "detailed": {
             "info_alcohol": "14,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Rioja",
             "info_elaboration": "Envejecimiento: Envejecido durante 22 meses en barricas de roble.",
             "info_grape": "Tempranillo,   Garnacha,   Graciano,   Viura y Malvasia",
             "info_owner": "Granja Ntra. Sra de Remelluri",
@@ -170,6 +179,7 @@
         "detailed": {
             "info_alcohol": "13,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Ribera del Duero",
             "info_elaboration": "Período de crianza: 4 meses Tipo de madera: Roble francés",
             "info_grape": "Tempranillo",
             "info_owner": "Bodegas Emilio Moro",
@@ -189,6 +199,7 @@
         "detailed": {
             "info_alcohol": "13,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Rioja",
             "info_elaboration": "Envejecimiento: Envejecido durante 14 meses en barricas de roble americano. Posteriormente 8 meses en botella.",
             "info_grape": "Tempranillo",
             "info_owner": "Bodegas Ramón Bilbao",
@@ -208,6 +219,7 @@
         "detailed": {
             "info_alcohol": "11,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Cava",
             "info_elaboration": "Envejecimiento: Envejecido durante un periodo de 24 meses.",
             "info_grape": "Macabeo,   Xarel·lo,   Parellada y Chardonnay",
             "info_owner": "Celler Masia Can Tutusaus ",
@@ -226,6 +238,7 @@
         "detailed": {
             "info_alcohol": "12,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Cava",
             "info_elaboration": "Envejecimiento: Envejecido durante más de 40 meses en botella. (La fecha de degüelle figura en la contra-etiqueta de cada botella.)",
             "info_grape": "Xarel·lo,   Macabeo y Parellada",
             "info_owner": "Cava Recaredo",
@@ -245,6 +258,7 @@
         "detailed": {
             "info_alcohol": "13,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Rioja",
             "info_elaboration": "Período de crianza: 60 meses Edad de las barricas: Usadas Tipo de madera: Roble Clarificación y filtración: No filtrado Producción: 78000 botellas",
             "info_grape": "Tempranillo,   Garnacha,   Mazuelo y Graciano",
             "info_owner": "Bodegas R. López de Heredia Viña Tondonia",
@@ -264,6 +278,7 @@
         "detailed": {
             "info_alcohol": "15,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Jumilla",
             "info_elaboration": "Período de crianza: 12 meses Edad de las barricas: Nuevas Tipo de madera: Roble francés",
             "info_grape": "Monastrell",
             "info_owner": "Bodegas Juan Gil",
@@ -283,6 +298,7 @@
         "detailed": {
             "info_alcohol": "13,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Rueda",
             "info_elaboration": "Producción: 510000 botellas",
             "info_grape": "Verdejo",
             "info_owner": "Angel Lorenzo Cachazo",
@@ -302,6 +318,7 @@
         "detailed": {
             "info_alcohol": "14,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Navarra",
             "info_elaboration": "Envejecimiento: Criando durante 10 meses en barricas de roble francés.",
             "info_grape": "Tempranillo,   Cabernet Sauvignon y Merlot",
             "info_owner": "Bodegas Viña Magaña",
@@ -321,6 +338,7 @@
         "detailed": {
             "info_alcohol": "13,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Rioja",
             "info_elaboration": "Período de crianza: 36 meses Edad de las barricas: Usadas Tipo de madera: Roble americano Clarificación y filtración: No filtrado Producción: 99000 botellas",
             "info_grape": "Tempranillo,   Garnacha,   Mazuelo y Graciano",
             "info_owner": "Bodegas R. López de Heredia Viña Tondonia",
@@ -340,6 +358,7 @@
         "detailed": {
             "info_alcohol": "15,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Priorat",
             "info_elaboration": "Envejecimiento: Envejecido parcialmente (50%) durante 4 meses en barricas de roble francés.",
             "info_grape": "Garnacha,   Cariñena,   Cabernet Sauvignon,   Merlot y Syrah",
             "info_owner": "Casa Gran del Siurana",
@@ -359,6 +378,7 @@
         "detailed": {
             "info_alcohol": "13,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Ribera del Duero",
             "info_elaboration": "Envejecimiento: Envejecido durante 20 meses en barricas de roble francés.",
             "info_grape": "Tempranillo",
             "info_owner": "Bodegas Hnos. Pérez Pascuas",
@@ -378,6 +398,7 @@
         "detailed": {
             "info_alcohol": "14,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Ribera del Duero",
             "info_elaboration": "Período de crianza: 12 meses Tipo de madera: Roble francés y americano Producción: 600000 botellas",
             "info_grape": "Tempranillo",
             "info_owner": "Bodegas Emilio Moro",
@@ -397,6 +418,7 @@
         "detailed": {
             "info_alcohol": "15,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Toro",
             "info_elaboration": "Período de crianza: 12 meses Edad de las barricas: Nuevas Tipo de madera: Roble francés y americano Producción: 759700 botellas",
             "info_grape": "Tinta de Toro",
             "info_owner": "Bodegas y Viñedos Pintia",
@@ -416,6 +438,7 @@
         "detailed": {
             "info_alcohol": "13,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Rioja",
             "info_elaboration": "Material de vinificación: Madera Período de crianza: 72 meses Edad de las barricas: Usadas Tipo de madera: Roble americano Clarificación y filtración: No filtrado Producción: 250000 botellas",
             "info_grape": "Tempranillo,   Garnacha,   Graciano y Mazuelo",
             "info_owner": "Bodegas R. López de Heredia Viña Tondonia",
@@ -435,6 +458,7 @@
         "detailed": {
             "info_alcohol": "14,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Toro",
             "info_elaboration": "Envejecimiento: Fermentación maloláctica en barrica (30% en barricas nuevas). Envejecido durante 14 meses en barricas de roble francés, nuevas (30%) y de un vino (70%).",
             "info_grape": "Tinta de Toro",
             "info_owner": "Teso La Monja",
@@ -453,6 +477,7 @@
         "detailed": {
             "info_alcohol": "12,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Cava",
             "info_elaboration": "Envejecimiento: Envejecido durante un mínimo de 3 años en botella.",
             "info_grape": "Macabeo,   Parellada y Xarel·lo",
             "info_owner": "Juvé y Camps",
@@ -472,6 +497,7 @@
         "detailed": {
             "info_alcohol": "13,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Rueda",
             "info_grape": "Verdejo",
             "info_owner": "Bodegas Protos",
             "info_pairing": "Arroces de pescado / platos de pasta / pescados / marisco / crustáceos / quesos frescos / verduras / sopas",
@@ -490,6 +516,7 @@
         "detailed": {
             "info_alcohol": "13,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Vinos sin IG",
             "info_grape": "Tempranillo y Graciano",
             "info_owner": "The Wine Love",
             "info_recommendations": "Temperatura de servicio óptima: Entre 12ºC y 14ºC",
@@ -507,6 +534,7 @@
         "detailed": {
             "info_alcohol": "14,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Ribera del Duero",
             "info_elaboration": "Período de crianza: 6 meses Tipo de madera: Roble americano",
             "info_grape": "Tempranillo",
             "info_owner": "Bodegas Protos",
@@ -526,6 +554,7 @@
         "detailed": {
             "info_alcohol": "13,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Rioja",
             "info_elaboration": "Envejecimiento: Envejecido durante 20 meses en barricas nuevas de roble americano y posteriormente durante 24 meses en botella.",
             "info_grape": "Tempranillo",
             "info_owner": "Barón de Ley",
@@ -545,6 +574,7 @@
         "detailed": {
             "info_alcohol": "14,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Priorat",
             "info_elaboration": "Envejecimiento: Envejecido durante 8 meses en barricas de roble francés y americano.",
             "info_grape": "Garnacha,   Cariñena y Syrah",
             "info_owner": "Domini de la Cartoixa",
@@ -563,6 +593,7 @@
         "detailed": {
             "info_alcohol": "14,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Bierzo",
             "info_elaboration": "Envejecimiento: Envejecido parcialmente en tinas de madera de 5.000 litros.",
             "info_grape": "Mencía",
             "info_owner": "Bodegas y Viñedos Castro Ventosa",
@@ -581,6 +612,7 @@
         "detailed": {
             "info_alcohol": "11,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Cava",
             "info_elaboration": "Envejecimiento: Envejecido durante 15 meses en las cavas.",
             "info_grape": "Macabeo,   Parellada y Xarel·lo",
             "info_owner": "Perelada",
@@ -600,6 +632,7 @@
         "detailed": {
             "info_alcohol": "13,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Rías Baixas",
             "info_elaboration": "Envejecimiento: Parcialmente fermentado en barricas de roble.",
             "info_grape": "Albariño",
             "info_owner": "Bodega Forjas del Salnés",
@@ -619,6 +652,7 @@
         "detailed": {
             "info_alcohol": "12,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Rías Baixas",
             "info_elaboration": "Vendimia: La vendimia se lleva a cabo de forma manual. Se transporta en pequeñas cajas de plástico a la bodega lo más rápido posible para evitar el deterioro de la uva y su calentamiento Material de vinificación: Acero inoxidable Producción: 80000 botellas",
             "info_grape": "Albariño",
             "info_owner": "Gerardo Méndez",
@@ -638,6 +672,7 @@
         "detailed": {
             "info_alcohol": "14,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Navarra",
             "info_grape": "Chardonnay",
             "info_owner": "Señorío de Otazu",
             "info_type": "Vino blanco sin crianza"
@@ -653,6 +688,7 @@
         "detailed": {
             "info_alcohol": "14,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Mallorca",
             "info_elaboration": "Envejecimiento: Envejecido durante 12 meses en barricas nuevas de roble americano (30%) y en barricas seminuevas de roble francés (70%).",
             "info_grape": "Callet,   Fogoneu y Cabernet Sauvignon",
             "info_owner": "Ànima Negra Viticultors",
@@ -672,6 +708,7 @@
         "detailed": {
             "info_alcohol": "14,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Bierzo",
             "info_elaboration": "Período de crianza: 10 meses Tipo de madera: Roble francés Producción: 310000 botellas",
             "info_grape": "Mencía y Alicante Bouschet",
             "info_owner": "Descendientes de J. Palacios",
@@ -691,6 +728,7 @@
         "detailed": {
             "info_alcohol": "11,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Cava",
             "info_elaboration": "Envejecimiento: Envejecido entre 24 y 30 meses en rima.",
             "info_grape": "Parellada,   Macabeo y Xarel·lo",
             "info_owner": "Caves Rigol",
@@ -709,6 +747,7 @@
         "detailed": {
             "info_alcohol": "14,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Ribera del Duero",
             "info_elaboration": "Período de crianza: 6 meses Tipo de madera: Roble francés y americano Producción: 800000 botellas",
             "info_grape": "Tempranillo",
             "info_owner": "Bodegas Arzuaga Navarro",
@@ -728,6 +767,7 @@
         "detailed": {
             "info_alcohol": "12,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Rías Baixas",
             "info_elaboration": "Vendimia: Las lluvias que se produjeron a principios de septiembre, antes de la vendimia, consiguieron una excelente maduración que nos proporcionó mostos con buen nivel de azúcar y suave acidez.</p> <p>El albariño se vendimia temprano entre el 19 y el 23 de septiembre y el Caíño es la última variedad que se recoge, entre el 29 de septiembre y el 3 de octubre, siendo la más tardía. El Loureiro del 26 al 28 de septiembre. Producción: 915000 botellas",
             "info_grape": "Albariño,   Caiño Blanco y Loureiro",
             "info_owner": "Bodegas Terras Gauda",
@@ -747,6 +787,7 @@
         "detailed": {
             "info_alcohol": "15,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Alicante",
             "info_elaboration": "Envejecimiento: Envejecido durante 14 meses en barricas de roble francés.",
             "info_grape": "Monastrell",
             "info_owner": "Bodegas Volver",
@@ -766,6 +807,7 @@
         "detailed": {
             "info_alcohol": "14,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Ribera del Duero",
             "info_elaboration": "Envejecimiento: Fermentación maloláctica en barricas nuevas de roble francés. Envejecido durante 12 meses en barricas de roble francés.",
             "info_grape": "Tempranillo",
             "info_owner": "Viñedos Alonso del Yerro",
@@ -785,6 +827,7 @@
         "detailed": {
             "info_alcohol": "14,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Bierzo",
             "info_grape": "Mencía",
             "info_owner": "Vinos Valtuille",
             "info_text": "Marcos se lanzó al mercado con este monovarietal de mencía, su vino joven, un vino expresivo en nariz, redondo y sabroso que, año tras año, ha ido ganando crédito en el mercado y el reconocimiento y la admiración de críticos y aficionados.",
@@ -801,6 +844,7 @@
         "detailed": {
             "info_alcohol": "14,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Priorat",
             "info_elaboration": "Envejecimiento: Envejecido durante 12 meses en tinas de madera de roble francés de 7000 l.",
             "info_grape": "Cariñena,   Garnacha,   Cabernet Sauvignon,   Merlot y Syrah",
             "info_owner": "Les Cousins Marc & Adrià",
@@ -820,6 +864,7 @@
         "detailed": {
             "info_alcohol": "14,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Toro",
             "info_elaboration": "Envejecimiento: Envejecido durante 3 meses en barricas de roble francés.",
             "info_grape": "Tempranillo",
             "info_owner": "Hacienda Terra d'Uro",
@@ -836,6 +881,7 @@
         "detailed": {
             "info_alcohol": "14,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Castilla y León",
             "info_elaboration": "Envejecimiento: Envejecido durante 16 meses en barricas de roble francés y americano de distintas edades. Producción: 300000 botellas",
             "info_grape": "Tempranillo y Syrah",
             "info_owner": "Bodegas Mauro",
@@ -855,6 +901,7 @@
         "detailed": {
             "info_alcohol": "14,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Rioja",
             "info_elaboration": "Material de vinificación: Acero inoxidable Período de crianza: 24 meses Tipo de madera: Roble americano",
             "info_grape": "Tempranillo,   Graciano y Mazuelo",
             "info_owner": "Herederos del Marqués de Riscal",
@@ -874,6 +921,7 @@
         "detailed": {
             "info_alcohol": "14,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Almansa",
             "info_elaboration": "Envejecimiento: Envejecido durante 4 meses en barricas de roble francés.",
             "info_grape": "Garnacha Tintorera y Monastrell",
             "info_owner": "Bodegas Atalaya",
@@ -893,6 +941,7 @@
         "detailed": {
             "info_alcohol": "14,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Extremadura",
             "info_elaboration": "Período de crianza: 6 meses Tipo de madera: Roble francés",
             "info_grape": "Syrah,   Cabernet Sauvignon y Tempranillo",
             "info_owner": "Bodegas Habla",
@@ -912,6 +961,7 @@
         "detailed": {
             "info_alcohol": "12,0%",
             "info_bottle": "0,75 L",
+            "info_do": "Vinos sin IG",
             "info_elaboration": "Envejecimiento: Envejecido durante un mínimo de 15 meses en rima.",
             "info_grape": "Macabeo,   Xarel·lo,   Parellada y Monastrell",
             "info_owner": "Raventós i Blanc",

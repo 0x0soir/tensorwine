@@ -78,12 +78,12 @@ def get_wine_data(url):
             wine_skill = BeautifulSoup(str(skills), "html.parser").find_all('dt')
             for info in wine_skill:
                 info_text = info.contents[0]
-                
+                print("".join(str(info_text).split()))
                 if("".join(str(info_text).split())=="Tipo"):
                     detailed_info['info_type'] = info.next_sibling.next_sibling.contents[0]
                 elif ("".join(str(info_text).split())=="Productor"):
                     detailed_info['info_owner'] = info.next_sibling.next_sibling.a.contents[0]
-                elif ("".join(str(info_text).split())=="Denominación de origen"):
+                elif (" ".join(str(info_text).split())=="Denominación de origen"):
                     detailed_info['info_do'] = info.next_sibling.next_sibling.a.contents[0]
                 elif ("".join(str(info_text).split())=="Uvas"):
                     detailed_info['info_grape'] = info.next_sibling.next_sibling.get_text().strip()
@@ -99,7 +99,7 @@ def get_wine_data(url):
                     detailed_info['info_elaboration'] = " ".join(str(info.next_sibling.next_sibling.get_text().strip()).split())
                 elif ("".join(str(info_text).split())=="Recomendaciones"):
                     detailed_info['info_recommendations'] = " ".join(str(info.next_sibling.next_sibling.get_text().strip()).split())
-
+    
     return detailed_info
 def get_page_data(url):
 
