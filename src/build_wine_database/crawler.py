@@ -52,12 +52,55 @@ def get_page_data_products(htmlString):
                 'type': str(wine_fildered_info_type[0].contents[0]).strip(),
                 'owner': str(wine_fildered_info_owner[0].contents[0]).strip(),
                 'grape': "".join(str(wine_fildered_info_grape[0].contents[0]).split()),
-                'points': wine_fildered_points['title'] if wine_fildered_points != None else None
+                'points': wine_fildered_points['title'] if wine_fildered_points != None else None,
+                'detailed': get_wine_data(wine_fildered_info_name[0]['href'])
             }
 
             data.append(wine_json)
             pass
 
+def get_wine_data(url):
+    print("-- > Recuperando info del vino: "+url)
+
+    response = urlopen(url)
+
+    detailed_info = {}
+
+    if response.getheader('Content-Type')=='text/html' or response.getheader('Content-Type')=='text/html; charset=utf-8':
+        htmlBytes = response.read()
+        htmlString = htmlBytes.decode("utf-8")
+
+        soup = BeautifulSoup(htmlString, "html5lib")
+
+        filter_results = soup.find_all(class_="dl-skills")
+
+        for skills in filter_results:
+            wine_skill = BeautifulSoup(str(skills), "html.parser").find_all('dt')
+            for info in wine_skill:
+                info_text = info.contents[0]
+                
+                if("".join(str(info_text).split())=="Tipo"):
+                    detailed_info['info_type'] = info.next_sibling.next_sibling.contents[0]
+                elif ("".join(str(info_text).split())=="Productor"):
+                    detailed_info['info_owner'] = info.next_sibling.next_sibling.a.contents[0]
+                elif ("".join(str(info_text).split())=="Denominación de origen"):
+                    detailed_info['info_do'] = info.next_sibling.next_sibling.a.contents[0]
+                elif ("".join(str(info_text).split())=="Uvas"):
+                    detailed_info['info_grape'] = info.next_sibling.next_sibling.get_text().strip()
+                elif ("".join(str(info_text).split())=="Botella"):
+                    detailed_info['info_bottle'] = info.next_sibling.next_sibling.get_text().strip()
+                elif ("".join(str(info_text).split())=="Graduación"):
+                    detailed_info['info_alcohol'] = info.next_sibling.next_sibling.get_text().strip()
+                elif ("".join(str(info_text).split())=="Valoración:"):
+                    detailed_info['info_text'] = " ".join(str(info.next_sibling.next_sibling.get_text().strip()).split())
+                elif ("".join(str(info_text).split())=="Maridajes"):
+                    detailed_info['info_pairing'] = " ".join(str(info.next_sibling.next_sibling.get_text().strip()).split())
+                elif ("".join(str(info_text).split())=="Elaboración"):
+                    detailed_info['info_elaboration'] = " ".join(str(info.next_sibling.next_sibling.get_text().strip()).split())
+                elif ("".join(str(info_text).split())=="Recomendaciones"):
+                    detailed_info['info_recommendations'] = " ".join(str(info.next_sibling.next_sibling.get_text().strip()).split())
+
+    return detailed_info
 def get_page_data(url):
 
     print("Abriendo URL: "+url)
@@ -86,10 +129,10 @@ def get_page_data(url):
             if (int(first_wine)>0):
                 get_page_data_products(htmlString)
 
-            if (int(last_wine) < int(total_wines)):
-                get_page_data('https://www.vinissimus.com/es/vinos/regiones/index.html?id_pais=es&start='+last_wine)
-            else:
-                print("ACABA: "+last_wine+" - "+total_wines)
+            # if (int(last_wine) < int(total_wines)):
+            #     get_page_data('https://www.vinissimus.com/es/vinos/regiones/index.html?id_pais=es&start='+last_wine)
+            # else:
+            #     print("ACABA: "+last_wine+" - "+total_wines)
     else:
         print("Recibido con respuesta "+response.getheader('Content-Type'))
 
