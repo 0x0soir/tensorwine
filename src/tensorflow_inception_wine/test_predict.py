@@ -11,7 +11,5 @@ def test_image(route, label):
     else:
         print("Probando '%s' \t['%s', '%s'] %s" % (route, label, predicted_label, Fore.RED + '[ERROR]' + Style.RESET_ALL))
 
-test_image('test_images/bombay.jpg', 'bombay saphire')
-test_image('test_images/tilenus.jpg', 'tilenus')
-test_image('test_images/seagrams.jpg', 'seagrams')
-test_image('test_images/gordons.jpg', 'gordons')
+test_image('test_images/dominio.png', 'dominio de tares')
+test_image('test_images/bembibre.png', 'bembibre')
