@@ -5,21 +5,17 @@ import numpy as np
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
 class Wine_Predict:
+    __graph_dir = ''
+    __labels_dir = ''
+
     def __init__(self, graph_dir, labels_dir):
-
-        tf.app.flags.DEFINE_string("output_graph",
-                                   graph_dir,
-                                   "Modelo")
-        tf.app.flags.DEFINE_string("output_labels",
-                                   labels_dir,
-                                   "Etiquetas")
-
-        self.FLAGS = tf.app.flags.FLAGS
+        self.__graph_dir = graph_dir # Modelo
+        self.__labels_dir = labels_dir # Etiquetas
 
     def predict(self, image_route):
-        labels = [line.rstrip() for line in tf.gfile.GFile(self.FLAGS.output_labels)]
+        labels = [line.rstrip() for line in tf.gfile.GFile(self.__labels_dir)]
 
-        with tf.gfile.FastGFile(self.FLAGS.output_graph, 'rb') as fp:
+        with tf.gfile.FastGFile(self.__graph_dir, 'rb') as fp:
             graph_def = tf.GraphDef()
             graph_def.ParseFromString(fp.read())
             tf.import_graph_def(graph_def, name='')
@@ -41,4 +37,4 @@ class Wine_Predict:
         #     score = prediction[0][i]
         #     print('%s (%.2f%%)' % (name, score * 100))
 
-        return name
+        return {'wine_name': name, 'wine_score': score*100}
