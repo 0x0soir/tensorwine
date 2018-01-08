@@ -3,21 +3,22 @@
         "detailed": {
             "info_alcohol": "14,0%",
             "info_bottle": "0,75 L",
-            "info_do": "Ribera del Duero",
-            "info_elaboration": "Envejecimiento: Envejecido durante 12 meses en barricas de roble.",
+            "info_do": "Bierzo",
+            "info_elaboration": "Envejecimiento: Criado, sobre lías, durante 3 meses en barricas de roble francés.",
             "info_grape": "Tempranillo y Merlot",
             "info_owner": "Bodegas Montebaco",
             "info_pairing": "Bistec a la pimienta / conejo a la brasa / queso manchego curado / quesos viejos",
             "info_recommendations": "Temperatura de servicio óptima: Entre 14ºC y 16ºC",
-            "info_text": "No resulta nada sencillo destacar elaborando vinos en la DO Ribera del Duero, pues son muchas las bodegas que ofrecen productos fantásticos. Sin embargo, muy de vez en cuando, un vino irrumpe con fuerza en el mercado y pronto está en boca de todos; tal es el caso del Semele. Se trata de un tinto de insuperable relación precio-placer, elaborado siguiendo los mismos cuidados empleados con los vinos de gama alta por Bodegas Montebaco. Únicamente el perfecto conocimiento de la uva por parte de sus enólogos y viticultores nos permite deleitarnos con un vino de calidad indiscutible añada tras añada. Afrutado, mineral, de taninos dulces y elegantes, el Semele es un vino para gozar sin justificaciones, simplemente porque nos gusta el buen vino.",
-            "info_type": "Vino tinto crianza"
+            "info_text": "Godello característico pero bien estructurado, aroma delicado y color espectacular que no deja indiferente en una copa como aperitivo, sin más.",
+            "info_type": "Vino blanco con crianza"
         },
         "grape": "Tempranillo,Merlot",
         "name": "Dominio de tares",
         "owner": "Bodegas Montebaco",
         "points": "4.8 de 5 estrellas. Basado en 5 opiniones de cliente",
         "price": "8,70 €",
-        "type": "Vino tinto crianza, Ribera del Duero (España)"
+        "type": "Vino blanco con crianza",
+        "image": "/media/Dominio de tares.jpg"
     },
     {
         "detailed": {
