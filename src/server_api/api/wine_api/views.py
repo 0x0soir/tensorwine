@@ -48,7 +48,7 @@ def recognize_photo(request):
 
             html_response = {}
 
-            if (response['status']):
+            if (response['status']) or (response['predicted_score']<60):
                 html_response['status'] = 'match'
                 html_response['wine_info'] = {
                     'predicted_wine': response['predicted_label']['wine_name'],
@@ -56,7 +56,7 @@ def recognize_photo(request):
                     'wine_info': __get_wine_info(response['predicted_label']['wine_name'])
                 }
             else:
-                html_response['status'] = 'match'
+                html_response['status'] = 'error'
 
             return JsonResponse(html_response)
 
