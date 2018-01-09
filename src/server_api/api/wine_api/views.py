@@ -48,7 +48,7 @@ def recognize_photo(request):
 
             html_response = {}
 
-            if (response['status']) or (response['predicted_score']<60):
+            if (response['status']) or (response['predicted_score']>=50):
                 html_response['status'] = 'match'
                 html_response['wine_info'] = {
                     'predicted_wine': response['predicted_label']['wine_name'],
