@@ -13,6 +13,27 @@
             "info_type": "Vino blanco con crianza"
         },
         "grape": "Tempranillo,Merlot",
+        "name": "Impresiones",
+        "owner": "pinord bien",
+        "points": "4.8 de 5 estrellas. Basado en 5 opiniones de cliente",
+        "price": "8,70 €",
+        "type": "Vino blanco con crianza",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/pinordmoscato.jpg"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "14,0%",
+            "info_bottle": "0,75 L",
+            "info_do": "Bierzo",
+            "info_elaboration": "Envejecimiento: Criado, sobre lías, durante 3 meses en barricas de roble francés.",
+            "info_grape": "Tempranillo y Merlot",
+            "info_owner": "Bodegas Montebaco",
+            "info_pairing": "Bistec a la pimienta / conejo a la brasa / queso manchego curado / quesos viejos",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 14ºC y 16ºC",
+            "info_text": "Godello característico pero bien estructurado, aroma delicado y color espectacular que no deja indiferente en una copa como aperitivo, sin más.",
+            "info_type": "Vino blanco con crianza"
+        },
+        "grape": "Tempranillo,Merlot",
         "name": "Bembibre",
         "owner": "pinord bien",
         "points": "4.8 de 5 estrellas. Basado en 5 opiniones de cliente",
