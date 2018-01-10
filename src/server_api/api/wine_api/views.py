@@ -1,4 +1,4 @@
-import json, imp
+import json, imp, random
 from django.conf import settings
 from django.http import HttpResponseForbidden, JsonResponse, HttpResponse
 from django.views.decorators.csrf import csrf_exempt, csrf_protect
@@ -27,11 +27,27 @@ def __get_wine_info(name):
 
     return {}
 
+def __get_wine_recommendations():
+    json_data=open('../../build_wine_database/data.json').read()
+
+    data = json.loads(json_data)
+
+    return_data = []
+
+    for i in data:
+        if (random.randint(1, 5) == 1):
+            return_data.append(i)
+
+    return return_data
+
 ###################
 #  PUBLIC METHODS #
 ###################
 def index(request):
     return JsonResponse({'status':'error'})
+
+def recommendations(request):
+    return JsonResponse(__get_wine_recommendations(), safe=False)
 
 @csrf_exempt
 def recognize_photo(request):
