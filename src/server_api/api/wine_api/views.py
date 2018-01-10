@@ -35,8 +35,15 @@ def __get_wine_recommendations():
     return_data = []
 
     for i in data:
+        html_response = {}
+
         if (random.randint(1, 5) == 1):
-            return_data.append(i)
+            html_response['status'] = 'match'
+            html_response['wine_info'] = {
+                'wine_info': i
+            }
+
+            return_data.append(html_response)
 
     return return_data
 
