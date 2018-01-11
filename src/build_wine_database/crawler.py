@@ -1,8 +1,8 @@
 from html.parser import HTMLParser
 from urllib.request import urlopen
-from urllib import parse
+from urllib import parse, request
 from bs4 import BeautifulSoup
-import json, io
+import json, io, hashlib
 
 try:
     to_unicode = unicode
@@ -46,6 +46,9 @@ def get_page_data_products(htmlString):
             wine_points_not_fildered = BeautifulSoup(str(wine), "html5lib")
             wine_fildered_points = wine_points_not_fildered.find(height='16')
 
+            wine_filtered_image = BeautifulSoup(str(wine), "html5lib").find_all(class_='image')
+            wine_filtered_image_a = BeautifulSoup(str(wine_filtered_image[0]), "html5lib").find('a').find('img')['src']
+
             wine_json = {
                 'name': str(wine_fildered_info_name[0].contents[0]),
                 'price': str(wine_fildered_info_price[0].contents[0]).strip() if len(wine_fildered_info_price) > 0 else None,
@@ -55,6 +58,14 @@ def get_page_data_products(htmlString):
                 'points': wine_fildered_points['title'] if wine_fildered_points != None else None,
                 'detailed': get_wine_data(wine_fildered_info_name[0]['href'])
             }
+
+            wine_json['hash'] = hashlib.md5(str(wine_json['name']).encode('utf-8')).hexdigest()
+
+            wine_json['image'] = wine_json['hash']+'.jpg'
+
+            f = open('images/'+wine_json['hash']+'.jpg','wb')
+            f.write(request.urlopen(wine_filtered_image_a).read())
+            f.close()
 
             data.append(wine_json)
             pass
@@ -99,7 +110,7 @@ def get_wine_data(url):
                     detailed_info['info_elaboration'] = " ".join(str(info.next_sibling.next_sibling.get_text().strip()).split())
                 elif ("".join(str(info_text).split())=="Recomendaciones"):
                     detailed_info['info_recommendations'] = " ".join(str(info.next_sibling.next_sibling.get_text().strip()).split())
-    
+
     return detailed_info
 def get_page_data(url):
 

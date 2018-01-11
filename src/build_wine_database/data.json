@@ -3,132 +3,6 @@
         "detailed": {
             "info_alcohol": "14,0%",
             "info_bottle": "0,75 L",
-            "info_do": "Bierzo",
-            "info_elaboration": "Envejecimiento: Criado, sobre lías, durante 3 meses en barricas de roble francés.",
-            "info_grape": "Tempranillo y Merlot",
-            "info_owner": "Bodegas Montebaco",
-            "info_pairing": "Bistec a la pimienta / conejo a la brasa / queso manchego curado / quesos viejos",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 14ºC y 16ºC",
-            "info_text": "Godello característico pero bien estructurado, aroma delicado y color espectacular que no deja indiferente en una copa como aperitivo, sin más.",
-            "info_type": "Vino blanco con crianza"
-        },
-        "grape": "Tempranillo,Merlot",
-        "name": "lagar de amador",
-        "owner": "pinord bien",
-        "points": "4.8 de 5 estrellas. Basado en 5 opiniones de cliente",
-        "price": "8,70 €",
-        "type": "Vino blanco con crianza",
-        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/pinordmoscato.jpg"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "14,0%",
-            "info_bottle": "0,75 L",
-            "info_do": "Bierzo",
-            "info_elaboration": "Envejecimiento: Criado, sobre lías, durante 3 meses en barricas de roble francés.",
-            "info_grape": "Tempranillo y Merlot",
-            "info_owner": "Bodegas Montebaco",
-            "info_pairing": "Bistec a la pimienta / conejo a la brasa / queso manchego curado / quesos viejos",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 14ºC y 16ºC",
-            "info_text": "Godello característico pero bien estructurado, aroma delicado y color espectacular que no deja indiferente en una copa como aperitivo, sin más.",
-            "info_type": "Vino blanco con crianza"
-        },
-        "grape": "Tempranillo,Merlot",
-        "name": "Impresiones",
-        "owner": "pinord bien",
-        "points": "4.8 de 5 estrellas. Basado en 5 opiniones de cliente",
-        "price": "8,70 €",
-        "type": "Vino blanco con crianza",
-        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/pinordmoscato.jpg"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "14,0%",
-            "info_bottle": "0,75 L",
-            "info_do": "Bierzo",
-            "info_elaboration": "Envejecimiento: Criado, sobre lías, durante 3 meses en barricas de roble francés.",
-            "info_grape": "Tempranillo y Merlot",
-            "info_owner": "Bodegas Montebaco",
-            "info_pairing": "Bistec a la pimienta / conejo a la brasa / queso manchego curado / quesos viejos",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 14ºC y 16ºC",
-            "info_text": "Godello característico pero bien estructurado, aroma delicado y color espectacular que no deja indiferente en una copa como aperitivo, sin más.",
-            "info_type": "Vino blanco con crianza"
-        },
-        "grape": "Tempranillo,Merlot",
-        "name": "Bembibre",
-        "owner": "pinord bien",
-        "points": "4.8 de 5 estrellas. Basado en 5 opiniones de cliente",
-        "price": "8,70 €",
-        "type": "Vino blanco con crianza",
-        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/pinordmoscato.jpg"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "14,0%",
-            "info_bottle": "0,75 L",
-            "info_do": "Bierzo",
-            "info_elaboration": "Envejecimiento: Criado, sobre lías, durante 3 meses en barricas de roble francés.",
-            "info_grape": "Tempranillo y Merlot",
-            "info_owner": "Bodegas Montebaco",
-            "info_pairing": "Bistec a la pimienta / conejo a la brasa / queso manchego curado / quesos viejos",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 14ºC y 16ºC",
-            "info_text": "Godello característico pero bien estructurado, aroma delicado y color espectacular que no deja indiferente en una copa como aperitivo, sin más.",
-            "info_type": "Vino blanco con crianza"
-        },
-        "grape": "Tempranillo,Merlot",
-        "name": "Pinord Moscato",
-        "owner": "pinord bien",
-        "points": "4.8 de 5 estrellas. Basado en 5 opiniones de cliente",
-        "price": "8,70 €",
-        "type": "Vino blanco con crianza",
-        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/pinordmoscato.jpg"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "14,0%",
-            "info_bottle": "0,75 L",
-            "info_do": "Bierzo",
-            "info_elaboration": "Envejecimiento: Criado, sobre lías, durante 3 meses en barricas de roble francés.",
-            "info_grape": "Tempranillo y Merlot",
-            "info_owner": "Bodegas Montebaco",
-            "info_pairing": "Bistec a la pimienta / conejo a la brasa / queso manchego curado / quesos viejos",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 14ºC y 16ºC",
-            "info_text": "Godello característico pero bien estructurado, aroma delicado y color espectacular que no deja indiferente en una copa como aperitivo, sin más.",
-            "info_type": "Vino blanco con crianza"
-        },
-        "grape": "Tempranillo,Merlot",
-        "name": "win50frizzante",
-        "owner": "Bodegas Montebaco",
-        "points": "4.8 de 5 estrellas. Basado en 5 opiniones de cliente",
-        "price": "8,70 €",
-        "type": "Vino blanco con crianza",
-        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/win50frizzante.png"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "14,0%",
-            "info_bottle": "0,75 L",
-            "info_do": "Bierzo",
-            "info_elaboration": "Envejecimiento: Criado, sobre lías, durante 3 meses en barricas de roble francés.",
-            "info_grape": "Tempranillo y Merlot",
-            "info_owner": "Bodegas Montebaco",
-            "info_pairing": "Bistec a la pimienta / conejo a la brasa / queso manchego curado / quesos viejos",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 14ºC y 16ºC",
-            "info_text": "Godello característico pero bien estructurado, aroma delicado y color espectacular que no deja indiferente en una copa como aperitivo, sin más.",
-            "info_type": "Vino blanco con crianza"
-        },
-        "grape": "Tempranillo,Merlot",
-        "name": "Dominio de tares",
-        "owner": "Bodegas Montebaco",
-        "points": "4.8 de 5 estrellas. Basado en 5 opiniones de cliente",
-        "price": "8,70 €",
-        "type": "Vino blanco con crianza",
-        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/Dominio%20de%20tares.jpg"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "14,0%",
-            "info_bottle": "0,75 L",
             "info_do": "Ribera del Duero",
             "info_elaboration": "Envejecimiento: Envejecido durante 12 meses en barricas de roble.",
             "info_grape": "Tempranillo y Merlot",
@@ -139,30 +13,13 @@
             "info_type": "Vino tinto crianza"
         },
         "grape": "Tempranillo,Merlot",
+        "hash": "fabaeb254d304186b94cf4f2ebc324bb",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/fabaeb254d304186b94cf4f2ebc324bb.jpg",
         "name": "Semele 2015",
         "owner": "Bodegas Montebaco",
-        "points": "4.8 de 5 estrellas. Basado en 5 opiniones de cliente",
+        "points": "4.67 de 5 estrellas. Basado en 6 opiniones de cliente",
         "price": "8,70 €",
         "type": "Vino tinto crianza, Ribera del Duero (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "14,0%",
-            "info_bottle": "0,75 L",
-            "info_do": "Rioja",
-            "info_elaboration": "Envejecimiento: Envejecido durante 12 meses en barricas de roble francés y americano.",
-            "info_grape": "Garnacha y Tempranillo",
-            "info_owner": "Bodegas Palacios Remondo",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 17ºC Consumo y conservación: Para consumir ahora o conservar hasta 2027.",
-            "info_text": "La Montesa es un vino bien definido, refinado, firmado por la familia Palacios, artistas del vino, elaboren donde lo elaboren, Priorat, Bierzo o Rioja. Con un poco más de garnacha con cada añada, resulta un vino sabroso y refrescante, nacido en las radiantes laderas del Monte de Yerga, en la zona más alta del municipio de Alfaro, en La Rioja Oriental. En palabras de Luis Gutiérrez, \"parece un vino más caro de lo que es\".",
-            "info_type": "Vino tinto crianza"
-        },
-        "grape": "Garnacha,Tempranillo",
-        "name": "La Montesa 2014",
-        "owner": "Bodegas Palacios Remondo",
-        "points": "3.77 de 5 estrellas. Basado en 13 opiniones de cliente",
-        "price": "10,90 €",
-        "type": "Vino tinto crianza, Rioja (España)"
     },
     {
         "detailed": {
@@ -178,50 +35,55 @@
             "info_type": "Vino tinto crianza"
         },
         "grape": "Tempranillo,CabernetSauvignon,Merlot",
+        "hash": "33f3e83e0d7728592bf1552e1502c1e0",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/33f3e83e0d7728592bf1552e1502c1e0.jpg",
         "name": "Pago de Carraovejas 2015",
         "owner": "Pago de Carraovejas",
-        "points": "4.67 de 5 estrellas. Basado en 3 opiniones de cliente",
+        "points": "4.5 de 5 estrellas. Basado en 4 opiniones de cliente",
         "price": "28,50 €",
         "type": "Vino tinto crianza, Ribera del Duero (España)"
     },
     {
         "detailed": {
-            "info_alcohol": "13,5%",
+            "info_alcohol": "14,0%",
             "info_bottle": "0,75 L",
             "info_do": "Rioja",
-            "info_elaboration": "Envejecimiento: Envejecido durante 12-14 meses en barricas de roble francés y americano.",
-            "info_grape": "Tempranillo,   Garnacha y Graciano",
-            "info_owner": "Bodega Classica",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 18ºC",
-            "info_text": "Hacienda López de Haro es un vino redondo, amable y expresivo, de variedades Tempranillo, Garnacha tinta y Graciano, y con una crianza clásica de 18 meses en barricas 50% roble francés, 50% roble americano.",
+            "info_elaboration": "Envejecimiento: Envejecido durante 12 meses en barricas de roble francés y americano.",
+            "info_grape": "Garnacha y Tempranillo",
+            "info_owner": "Bodegas Palacios Remondo",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 17ºC Consumo y conservación: Para consumir ahora o conservar hasta 2027.",
+            "info_text": "La Montesa es un vino bien definido, refinado, firmado por la familia Palacios, artistas del vino, elaboren donde lo elaboren, Priorat, Bierzo o Rioja. Con un poco más de garnacha con cada añada, resulta un vino sabroso y refrescante, nacido en las radiantes laderas del Monte de Yerga, en la zona más alta del municipio de Alfaro, en La Rioja Oriental. En palabras de Luis Gutiérrez, \"parece un vino más caro de lo que es\".",
             "info_type": "Vino tinto crianza"
         },
-        "grape": "Tempranillo,Garnacha,Graciano",
-        "name": "Hacienda López de Haro Crianza 2015",
-        "owner": "Bodega Classica",
-        "points": null,
-        "price": "6,30 €",
+        "grape": "Garnacha,Tempranillo",
+        "hash": "06339d0a975a919c217a7c5b3933bcbb",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/06339d0a975a919c217a7c5b3933bcbb.jpg",
+        "name": "La Montesa 2014",
+        "owner": "Bodegas Palacios Remondo",
+        "points": "3.77 de 5 estrellas. Basado en 13 opiniones de cliente",
+        "price": "10,90 €",
         "type": "Vino tinto crianza, Rioja (España)"
     },
     {
         "detailed": {
-            "info_alcohol": "13,5%",
+            "info_alcohol": "14,0%",
             "info_bottle": "0,75 L",
-            "info_do": "Rioja",
-            "info_elaboration": "Envejecimiento: Envejecido durante 12 meses en barricas de roble.",
-            "info_grape": "Tempranillo,   Garnacha y Mazuelo",
-            "info_owner": "Compañía Vinícola del Norte de España - CVNE",
-            "info_pairing": "Costillas de cordero / guisos de ave / perdiz",
+            "info_do": "Ribera del Duero",
+            "info_elaboration": "Envejecimiento: Envejecido durante 12 meses en barricas seminuevas (de dos vinos) de roble francés.",
+            "info_grape": "Tempranillo y Cabernet Sauvignon",
+            "info_owner": "Finca Villacreces",
             "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 18ºC",
-            "info_text": "El Cune Crianza es un vino icónico, de los que por sí solos explican buena parte de la historia riojana. En él se combinan todas las bondades de los tintos de la Rioja Alta y buena parte de los métodos tradicionales de elaboración. El vino se cría en roble americano hasta adquirir el equilibrio y la delicadeza que lo caracterizan. Los aromas de bayas rojas, eucalipto y pimientas se entremezclan con los de hoja de tabaco ofreciendo una nariz reconocible año tras año. En boca es fresco y complejo al mismo tiempo, pura armonía.",
+            "info_text": "En palabras del gurú norteamericano Robert Parker, Pruno es un vino \"asombroso, un vino que ofrece y ofrece\" y estamos convencidos de que muchos de nuestros clientes suscribirían esta afirmación, no sin motivo Pruno se encuentra siempre entre nuestros vinos más vendidos, cosecha tras cosecha. Es un vino fresco, accesible, con un precio siempre asequible, y con un estilo que suele gustar a la mayoría de paladares: aromático, frutal, elegante, jugoso... Pruno se elabora con uvas de tempranillo (90%) y cabernet sauvignon (10%), con los primeros racimos que se vendimian en la finca de los viñedos de menor edad, plantados en parcelas con suelos de distinta composición, una diversidad que se refleja en el carácter del vino, complejo y rico. Pruno es de aquellos vinos que llenan la boca con mucha fruta, arándanos y cassis, notas de regaliz y grafito, y que ofrecen una bonita textura. Es persistente en el paladar y cierran el conjunto unas sutiles notas de crianza, muy bien integradas. En definitiva, un vino para tener siempre en casa, que se puede disfrutar recién servido al mercado o durante los siguientes 4-5 años de vida.",
             "info_type": "Vino tinto crianza"
         },
-        "grape": "Tempranillo,Garnacha,Mazuelo",
-        "name": "Cune Crianza 2014",
-        "owner": "Compañía Vinícola del Norte de España - CVNE",
-        "points": "4.43 de 5 estrellas. Basado en 7 opiniones de cliente",
-        "price": "6,40 €",
-        "type": "Vino tinto crianza, Rioja (España)"
+        "grape": "Tempranillo,CabernetSauvignon",
+        "hash": "f4ff619a44ef15ed3797440d6e4f8fa6",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/f4ff619a44ef15ed3797440d6e4f8fa6.jpg",
+        "name": "Pruno 2016",
+        "owner": "Finca Villacreces",
+        "points": "4.2 de 5 estrellas. Basado en 5 opiniones de cliente",
+        "price": "10,90 €",
+        "type": "Vino tinto crianza, Ribera del Duero (España)"
     },
     {
         "detailed": {
@@ -237,9 +99,11 @@
             "info_type": "Vino tinto reserva"
         },
         "grape": "Tempranillo,Garnacha",
+        "hash": "34f63a004a02de8dca39bdba827f0b84",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/34f63a004a02de8dca39bdba827f0b84.jpg",
         "name": "Viña Ardanza Reserva 2008",
         "owner": "La Rioja Alta",
-        "points": "4.71 de 5 estrellas. Basado en 7 opiniones de cliente",
+        "points": "4.8 de 5 estrellas. Basado en 10 opiniones de cliente",
         "price": "21,60 €",
         "type": "Vino tinto reserva, Rioja (España)"
     },
@@ -247,39 +111,22 @@
         "detailed": {
             "info_alcohol": "13,5%",
             "info_bottle": "0,75 L",
-            "info_do": "Ribera del Duero",
-            "info_elaboration": "Envejecimiento: Envejecido durante 12 meses en barricas nuevas y seminuevas de roble francés. Posteriormente reposa durante doce meses más en botella.",
-            "info_grape": "Tempranillo",
-            "info_owner": "Pago de los Capellanes",
-            "info_pairing": "Arroces de carne / carnes a la piedra / quesos curados",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 14ºC y 16ºC",
-            "info_text": "El Pago de los Capellanes Crianza es un vino que prácticamente no requiere presentación. Se trata de uno de los principales baluartes de la bodega de Pedrosa de Duero, un tinto que pese a compartir protagonismo con los otros cuatro tintos de la casa, ha conseguido posicionarse por sí sólo gracias a su enorme personalidad. Como es habitual en Pago de los Capellanes, se elabora únicamente con uvas de la variedad tempranillo cultivadas sobre suelos arcillocalcáreos, y comparte con sus hermanos la elegancia y la estructura que parecen ya indisociables a la bodega del matrimonio Rodero-Villa. La vendimia de sus uvas suele iniciarse en octubre y el mosto empieza a fermentar poco después, con levaduras autóctonas. Acabada la fermentación, el vino se traslada a barricas de roble francés de 300 litros en las que se armoniza durante doce meses antes de su embotellado. Tras el corcho de cada botella se esconde un vino de color picota intenso, con bordes violáceos. En nariz es noble y honesto, y la aparente pugna entre los aromas primarios de la fruta (ciruelas y moras) y los derivados de la crianza (especias y torrefactos) se zanja con un resultado beneficioso para ambas partes; tales son su equilibrio y complejidad. Las especias como la vainilla y la pimienta dan la mano a los aromas de frutos silvestres y regaliz llevándonos ineludiblemente a un primer sorbo impactante. En boca es delicado y firme a la par, cremoso y balsámico, con taninos finos pero vivos que permiten gozarlo de inmediato o guardarlo durante un buen tiempo. Su final es pura esencia de la Ribera del Duero: largo, equilibrado y adictivo.",
+            "info_do": "Rioja",
+            "info_elaboration": "Envejecimiento: Envejecido durante 12-14 meses en barricas de roble francés y americano.",
+            "info_grape": "Tempranillo,   Garnacha y Graciano",
+            "info_owner": "Bodega Classica",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 18ºC",
+            "info_text": "Hacienda López de Haro es un vino redondo, amable y expresivo, de variedades Tempranillo, Garnacha tinta y Graciano, y con una crianza clásica de 18 meses en barricas 50% roble francés, 50% roble americano.",
             "info_type": "Vino tinto crianza"
         },
-        "grape": "Tempranillo",
-        "name": "Pago de los Capellanes Crianza 2015",
-        "owner": "Pago de los Capellanes",
-        "points": "4.0 de 5 estrellas. Basado en 2 opiniones de cliente",
-        "price": "19,40 €",
-        "type": "Vino tinto crianza, Ribera del Duero (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "13,0%",
-            "info_bottle": "0,75 L",
-            "info_do": "Rueda",
-            "info_grape": "Verdejo",
-            "info_owner": "Bodegas José Pariente ",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 6ºC y 8ºC",
-            "info_text": "Un vino sugerente y muy agradable, con cierta untuosidad y todo lo que se puede pedir a un verdejo en cuanto a frescor, buena acidez, aromas herbáceos y florales, y el característico toque amargoso. Un vino que, llevando el nombre del padre de una de las copropietarias de la bodega, no se desmarca en absoluto ni de la línea de blancos de calidad de Rueda, ni de la propia de la bodega. En definitiva, un verdejo más que recomendable.",
-            "info_type": "Vino blanco sin crianza"
-        },
-        "grape": "Verdejo",
-        "name": "José Pariente Verdejo 2016",
-        "owner": "Bodegas José Pariente",
-        "points": "4.27 de 5 estrellas. Basado en 11 opiniones de cliente",
-        "price": "9,10 €",
-        "type": "Vino blanco sin crianza, Rueda (España)"
+        "grape": "Tempranillo,Garnacha,Graciano",
+        "hash": "d22b127bbdd2f80c69936482631baa0f",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/d22b127bbdd2f80c69936482631baa0f.jpg",
+        "name": "Hacienda López de Haro Crianza 2015",
+        "owner": "Bodega Classica",
+        "points": "4.0 de 5 estrellas. Basado en 1 opiniones de cliente",
+        "price": "6,30 €",
+        "type": "Vino tinto crianza, Rioja (España)"
     },
     {
         "detailed": {
@@ -295,70 +142,55 @@
             "info_type": "Vino tinto reserva"
         },
         "grape": "Tempranillo,Garnacha,Graciano,Viura,Malvasia",
+        "hash": "f93056bc3655671df35679bfe300663a",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/f93056bc3655671df35679bfe300663a.jpg",
         "name": "Remelluri Reserva 2010",
         "owner": "Granja Ntra. Sra de Remelluri",
-        "points": "5.0 de 5 estrellas. Basado en 1 opiniones de cliente",
+        "points": "4.67 de 5 estrellas. Basado en 3 opiniones de cliente",
         "price": "18,20 €",
         "type": "Vino tinto reserva, Rioja (España)"
     },
     {
         "detailed": {
-            "info_alcohol": "13,5%",
+            "info_alcohol": "13,0%",
             "info_bottle": "0,75 L",
-            "info_do": "Ribera del Duero",
-            "info_elaboration": "Período de crianza: 4 meses Tipo de madera: Roble francés",
-            "info_grape": "Tempranillo",
-            "info_owner": "Bodegas Emilio Moro",
-            "info_pairing": "Tostadas con embutido / quesos semicurados / arroces de carne",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 14ºC y 16ºC",
-            "info_text": "Finca Resalso es el nombre de un viñedo plantado en 1932, año de nacimiento de Emilio Moro. Es también el nombre que la bodega ha dado a su vino joven, elaborado con uvas de sus cepas más jóvenes, pero no por ello exento de la calidad que siempre ofrece el sello Emilio Moro. El Finca Resalso es un vino que busca mostrar el descaro y la expresividad de las viñas jóvenes, luce un precioso color picota con bordes carmín y una lágrima de lento desprendimiento. La primera sensación olfativa es curiosa, estimulante. No se aprecian las notas a fruta sobremadura o vainillas tan comunes en algunos vinos de la Ribera del Duero: rezuma aromas especiados y florales, recuerdos a olivar y sotobosque. La madera asoma la cabeza lentamente, en forma de destellos de café y especias dulces, pero siempre supeditada a la intensidad de una extraordinaria y jugosa fruta silvestre. La entrada es muy fresca —de hecho, todo el vino lo es—, de principio a fin; los torrefactos llenan el centro de la lengua mientras la acidez se desliza por los laterales. Detalles lácticos, taninos redondos cargados de amabilidad y un final pletórico, armónico que deja un rastro goloso y con carácter de auténtico Ribera.",
-            "info_type": "Vino tinto joven con crianza"
+            "info_do": "Rueda",
+            "info_grape": "Verdejo",
+            "info_owner": "Bodegas José Pariente ",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 6ºC y 8ºC",
+            "info_text": "Un vino sugerente y muy agradable, con cierta untuosidad y todo lo que se puede pedir a un verdejo en cuanto a frescor, buena acidez, aromas herbáceos y florales, y el característico toque amargoso. Un vino que, llevando el nombre del padre de una de las copropietarias de la bodega, no se desmarca en absoluto ni de la línea de blancos de calidad de Rueda, ni de la propia de la bodega. En definitiva, un verdejo más que recomendable.",
+            "info_type": "Vino blanco sin crianza"
         },
-        "grape": "Tempranillo",
-        "name": "Emilio Moro Finca Resalso 2016",
-        "owner": "Bodegas Emilio Moro",
-        "points": "4.43 de 5 estrellas. Basado en 7 opiniones de cliente",
-        "price": "8,25 €",
-        "type": "Vino tinto joven con crianza, Ribera del Duero (España)"
+        "grape": "Verdejo",
+        "hash": "04e063bc88b72a74402b223eb256acda",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/04e063bc88b72a74402b223eb256acda.jpg",
+        "name": "José Pariente Verdejo 2016",
+        "owner": "Bodegas José Pariente",
+        "points": "4.27 de 5 estrellas. Basado en 11 opiniones de cliente",
+        "price": "9,10 €",
+        "type": "Vino blanco sin crianza, Rueda (España)"
     },
     {
         "detailed": {
             "info_alcohol": "13,5%",
             "info_bottle": "0,75 L",
             "info_do": "Rioja",
-            "info_elaboration": "Envejecimiento: Envejecido durante 14 meses en barricas de roble americano. Posteriormente 8 meses en botella.",
-            "info_grape": "Tempranillo",
-            "info_owner": "Bodegas Ramón Bilbao",
-            "info_pairing": "Embutidos ibéricos / quesos semicurados / queso manchego / ternasco asado",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 18ºC Consumo y conservación: Para consumir ahora o conservar hasta 2019.",
-            "info_text": "El Ramón Bilbao Crianza es un clásico renovado que basa buena parte de su regularidad en un seguimiento exhaustivo de todo el proceso de maduración de la uva. Las parcelas se interpretan una a una, siendo vendimiadas individualmente en el punto justo de maduración; después, en bodega, se vinifican por separado extrayendo el máximo potencial de cada una de ellas. Sólo en última instancia se combinan para convertirse en uno de los tintos más equilibrados y versátiles de Rioja, un vino armonioso y balsámico que conquistará cualquier buena mesa.",
+            "info_elaboration": "Envejecimiento: Envejecido durante 12 meses en barricas de roble.",
+            "info_grape": "Tempranillo,   Garnacha y Mazuelo",
+            "info_owner": "Compañía Vinícola del Norte de España - CVNE",
+            "info_pairing": "Costillas de cordero / guisos de ave / perdiz",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 18ºC",
+            "info_text": "El Cune Crianza es un vino icónico, de los que por sí solos explican buena parte de la historia riojana. En él se combinan todas las bondades de los tintos de la Rioja Alta y buena parte de los métodos tradicionales de elaboración. El vino se cría en roble americano hasta adquirir el equilibrio y la delicadeza que lo caracterizan. Los aromas de bayas rojas, eucalipto y pimientas se entremezclan con los de hoja de tabaco ofreciendo una nariz reconocible año tras año. En boca es fresco y complejo al mismo tiempo, pura armonía.",
             "info_type": "Vino tinto crianza"
         },
-        "grape": "Tempranillo",
-        "name": "Ramón Bilbao Crianza 2014",
-        "owner": "Bodegas Ramón Bilbao",
-        "points": "4.33 de 5 estrellas. Basado en 6 opiniones de cliente",
-        "price": "8,20 €",
+        "grape": "Tempranillo,Garnacha,Mazuelo",
+        "hash": "081772ea8a6919c8d8a8b82594f14215",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/081772ea8a6919c8d8a8b82594f14215.jpg",
+        "name": "Cune Crianza 2014",
+        "owner": "Compañía Vinícola del Norte de España - CVNE",
+        "points": "4.43 de 5 estrellas. Basado en 7 opiniones de cliente",
+        "price": "6,40 €",
         "type": "Vino tinto crianza, Rioja (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "11,5%",
-            "info_bottle": "0,75 L",
-            "info_do": "Cava",
-            "info_elaboration": "Envejecimiento: Envejecido durante un periodo de 24 meses.",
-            "info_grape": "Macabeo,   Xarel·lo,   Parellada y Chardonnay",
-            "info_owner": "Celler Masia Can Tutusaus ",
-            "info_recommendations": "Temperatura de servicio óptima: 9ºC",
-            "info_text": "Emplazado en el pequeño pueblo de Olesa de Bonesvalls, en pleno macizo del Garraf, Raimon Badell, enólogo-propietario, elabora uno de los cavas más artesanales de la comarca del Penedés. El nombre Vall Dolina hace referencia al tipo de relieve formado por valles o depresiones conocidos con el nombre de dolinas. La bodega Can Tutusaus sólo produce vinos en agricultura ecológica sobre terrenos pobres de arcilla rojiza y caliza, suelos con tipicidad Garraf. Son escasas las botellas que producen (tan sólo 20.000) y gracias a ello son de los pocos que todavía pueden permitirse hacer el degüelle manual en caliente, al puro estilo tradicional. Es increíble ver dicha operación en directo. Seleccionamos Vall Dolina Reserva Brut Nature por ser éste un cava de perfecta calidad y estructura que muchos otros cavas sustancialmente más caros desearían tener. Vall Dolina Reserva Brut Nature es un cava de trilogía con un aporte de chardonnay que le confiere estructura y vinosidad. Aromas muy livianos y terciarios ricos en tostados, cáscara de almendra amarga y crema pastelera. Siendo joven de añada, en relación a otros cavas, fascina por su elegancia bien compensada por la acidez y la sequedad del brut nature. Encontramos un carbónico bien acoplado que provoca que el cava sea atractivo y se estire bien, una impresión final de auténtico mineral de fósil marino concluye en boca. Vall Dolina, ¡un placer conocerte!",
-            "info_type": "Vino espumoso reserva"
-        },
-        "grape": "Macabeo,Xarel·lo,Parellada,Chardonnay",
-        "name": "Vall Dolina Reserva Brut Nature",
-        "owner": "Celler Masia Can Tutusaus",
-        "points": "3.86 de 5 estrellas. Basado en 7 opiniones de cliente",
-        "price": "7,83 €",
-        "type": "Vino espumoso reserva, Cava (España)"
     },
     {
         "detailed": {
@@ -374,11 +206,77 @@
             "info_type": "Vino espumoso gran reserva"
         },
         "grape": "Xarel·lo,Macabeo,Parellada",
+        "hash": "049949dfd4da8df2ff8092d2787b4363",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/049949dfd4da8df2ff8092d2787b4363.jpg",
         "name": "Recaredo Terrers Gran Reserva Brut Nature 2011",
         "owner": "Cava Recaredo",
         "points": "4.0 de 5 estrellas. Basado en 1 opiniones de cliente",
-        "price": "16,93 €",
+        "price": "18,80 €",
         "type": "Vino espumoso gran reserva, Cava (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "11,5%",
+            "info_bottle": "0,75 L",
+            "info_do": "Cava",
+            "info_elaboration": "Envejecimiento: Envejecido durante un periodo de 24 meses.",
+            "info_grape": "Macabeo,   Xarel·lo,   Parellada y Chardonnay",
+            "info_owner": "Celler Masia Can Tutusaus ",
+            "info_recommendations": "Temperatura de servicio óptima: 9ºC",
+            "info_text": "Emplazado en el pequeño pueblo de Olesa de Bonesvalls, en pleno macizo del Garraf, Raimon Badell, enólogo-propietario, elabora uno de los cavas más artesanales de la comarca del Penedés. El nombre Vall Dolina hace referencia al tipo de relieve formado por valles o depresiones conocidos con el nombre de dolinas. La bodega Can Tutusaus sólo produce vinos en agricultura ecológica sobre terrenos pobres de arcilla rojiza y caliza, suelos con tipicidad Garraf. Son escasas las botellas que producen (tan sólo 20.000) y gracias a ello son de los pocos que todavía pueden permitirse hacer el degüelle manual en caliente, al puro estilo tradicional. Es increíble ver dicha operación en directo. Seleccionamos Vall Dolina Reserva Brut Nature por ser éste un cava de perfecta calidad y estructura que muchos otros cavas sustancialmente más caros desearían tener. Vall Dolina Reserva Brut Nature es un cava de trilogía con un aporte de chardonnay que le confiere estructura y vinosidad. Aromas muy livianos y terciarios ricos en tostados, cáscara de almendra amarga y crema pastelera. Siendo joven de añada, en relación a otros cavas, fascina por su elegancia bien compensada por la acidez y la sequedad del brut nature. Encontramos un carbónico bien acoplado que provoca que el cava sea atractivo y se estire bien, una impresión final de auténtico mineral de fósil marino concluye en boca. Vall Dolina, ¡un placer conocerte!",
+            "info_type": "Vino espumoso reserva"
+        },
+        "grape": "Macabeo,Xarel·lo,Parellada,Chardonnay",
+        "hash": "5c5b1f4edad63c5067c035ef8d71be05",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/5c5b1f4edad63c5067c035ef8d71be05.jpg",
+        "name": "Vall Dolina Reserva Brut Nature",
+        "owner": "Celler Masia Can Tutusaus",
+        "points": "4.0 de 5 estrellas. Basado en 8 opiniones de cliente",
+        "price": "8,70 €",
+        "type": "Vino espumoso reserva, Cava (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "14,5%",
+            "info_bottle": "0,75 L",
+            "info_do": "Priorat",
+            "info_elaboration": "Envejecimiento: Envejecido durante 8 meses en barricas de roble francés y americano.",
+            "info_grape": "Garnacha,   Cariñena y Syrah",
+            "info_owner": "Domini de la Cartoixa",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 15ºC y 16ºC",
+            "info_text": "El primer touch olfativo de Formiga nos recuerda a los vinos de maceración carbónica, donde dominan las impresiones de cerezas y palotes de fresa; un buen agitado en copa los desarrolla en aromas anisados e higos. Y algo muy curioso, Formiga desprende olores a pimienta negra y raspón, elementos muy comunes con ciertos vinos del Ródano. La bouche es sabrosa y concentrada, con una dosis de excelente madurez que se aprecia muy bonita; una madurez justa e impecable de texturas atlánticas que indican una elegante frescura. Formiga ¡acaricia el paladar!",
+            "info_type": "Vino tinto joven con crianza"
+        },
+        "grape": "Garnacha,Cariñena,Syrah",
+        "hash": "dbb9d12f9b23d5b573f25ce8f91f102d",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/dbb9d12f9b23d5b573f25ce8f91f102d.jpg",
+        "name": "Formiga de Vellut 2015",
+        "owner": "Domini de la Cartoixa",
+        "points": "5.0 de 5 estrellas. Basado en 1 opiniones de cliente",
+        "price": "13,55 €",
+        "type": "Vino tinto joven con crianza, Priorat (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "13,5%",
+            "info_bottle": "0,75 L",
+            "info_do": "Rioja",
+            "info_elaboration": "Envejecimiento: Envejecido durante 14 meses en barricas de roble americano. Posteriormente 8 meses en botella.",
+            "info_grape": "Tempranillo",
+            "info_owner": "Bodegas Ramón Bilbao",
+            "info_pairing": "Embutidos ibéricos / quesos semicurados / queso manchego / ternasco asado",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 18ºC Consumo y conservación: Para consumir ahora o conservar hasta 2019.",
+            "info_text": "El Ramón Bilbao Crianza es un clásico renovado que basa buena parte de su regularidad en un seguimiento exhaustivo de todo el proceso de maduración de la uva. Las parcelas se interpretan una a una, siendo vendimiadas individualmente en el punto justo de maduración; después, en bodega, se vinifican por separado extrayendo el máximo potencial de cada una de ellas. Sólo en última instancia se combinan para convertirse en uno de los tintos más equilibrados y versátiles de Rioja, un vino armonioso y balsámico que conquistará cualquier buena mesa.",
+            "info_type": "Vino tinto crianza"
+        },
+        "grape": "Tempranillo",
+        "hash": "dcd88827f80129fe08338ffa6cc3e530",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/dcd88827f80129fe08338ffa6cc3e530.jpg",
+        "name": "Ramón Bilbao Crianza 2014",
+        "owner": "Bodegas Ramón Bilbao",
+        "points": "4.33 de 5 estrellas. Basado en 6 opiniones de cliente",
+        "price": "8,20 €",
+        "type": "Vino tinto crianza, Rioja (España)"
     },
     {
         "detailed": {
@@ -394,171 +292,13 @@
             "info_type": "Vino tinto reserva"
         },
         "grape": "Tempranillo,Garnacha,Mazuelo,Graciano",
+        "hash": "37834b3f4198ff1930fc2e66ebc52ac5",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/37834b3f4198ff1930fc2e66ebc52ac5.jpg",
         "name": "Viña Bosconia Reserva 2005",
         "owner": "Bodegas R. López de Heredia Viña Tondonia",
         "points": "4.67 de 5 estrellas. Basado en 6 opiniones de cliente",
         "price": "19,90 €",
         "type": "Vino tinto reserva, Rioja (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "15,0%",
-            "info_bottle": "0,75 L",
-            "info_do": "Jumilla",
-            "info_elaboration": "Período de crianza: 12 meses Edad de las barricas: Nuevas Tipo de madera: Roble francés",
-            "info_grape": "Monastrell",
-            "info_owner": "Bodegas Juan Gil",
-            "info_pairing": "Arroces de carne / carne de venado / quesos curados / setas",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 14ºC y 16ºC",
-            "info_text": "Best-seller, ésta es la mejor manera de sintetizar este vino; cuando un vino de una zona menospreciada durante décadas convence a tantos consumidores, uno debe forzosamente prestarle atención. Juan Gil Etiqueta Plata resulta intenso a la vista, intenso en nariz y nuevamente intenso en boca, pero también seductor y elegante en las tres fases. Violetas, regaliz, finos tostados, recuerdos balsámicos, apuntes especiados, pero, sobre todo, fruta, toneladas de fruta madura y jugosa, casi como si de una mermelada de moras silvestres se tratara. Una delicada hoja de tabaco y algún delicado recuerdo a café se adivinan de fondo, pero nada resta protagonismo a la fruta. Los taninos son firmes y algo secantes, pero se integran a la perfección en el conjunto. La acidez justa conduce a un final contundente, dominado por la dulzura de la uva monastrell y los recuerdos torrefactos de la madera.",
-            "info_type": "Vino tinto crianza"
-        },
-        "grape": "Monastrell",
-        "name": "Juan Gil Etiqueta Plata 2015",
-        "owner": "Bodegas Juan Gil",
-        "points": "4.0 de 5 estrellas. Basado en 3 opiniones de cliente",
-        "price": "10,60 €",
-        "type": "Vino tinto crianza, Jumilla (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "13,0%",
-            "info_bottle": "0,75 L",
-            "info_do": "Rueda",
-            "info_elaboration": "Producción: 510000 botellas",
-            "info_grape": "Verdejo",
-            "info_owner": "Angel Lorenzo Cachazo",
-            "info_pairing": "Aperitivos / arroces / pescados / crustáceos",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 6ºC y 8ºC",
-            "info_text": "Proyecto de Ángel Lorenzo Cachazo y de su hijo Javier con Uvas Felices en Rueda. Los proyectos vinícolas que componen Uvas Felices son Ca N’Estruc, L’Origan, El Perro Verde, Fenomenal, El Jardín de Lucía, Sospechoso, Venta Las Vacas, Paisajes, La Locomotora, Viña Al Lado de la Casa y El Hombre Bala.",
-            "info_type": "Vino blanco sin crianza"
-        },
-        "grape": "Verdejo",
-        "name": "El Perro Verde 2016",
-        "owner": "Angel Lorenzo Cachazo",
-        "points": "4.22 de 5 estrellas. Basado en 9 opiniones de cliente",
-        "price": "9,30 €",
-        "type": "Vino blanco sin crianza, Rueda (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "14,5%",
-            "info_bottle": "0,75 L",
-            "info_do": "Navarra",
-            "info_elaboration": "Envejecimiento: Criando durante 10 meses en barricas de roble francés.",
-            "info_grape": "Tempranillo,   Cabernet Sauvignon y Merlot",
-            "info_owner": "Bodegas Viña Magaña",
-            "info_pairing": "Arroces / carnes rojas / carnes blancas / guisos de carne / asados / parrilladas",
-            "info_recommendations": "Temperatura de servicio óptima: 18ºC",
-            "info_text": "Con un 50% de tempranillo, 25% de merlot y 25% de cabernet sauvignon, el pequeño Dignus ha sabido conquistar los paladares de los consumidores por su frescor y su accesibilidad, siendo a la vez un vino potente, rico y lleno de fruta.",
-            "info_type": "Vino tinto joven con crianza"
-        },
-        "grape": "Tempranillo,CabernetSauvignon,Merlot",
-        "name": "Magaña Dignus 2012",
-        "owner": "Bodegas Viña Magaña",
-        "points": "4.0 de 5 estrellas. Basado en 7 opiniones de cliente",
-        "price": "7,50 €",
-        "type": "Vino tinto joven con crianza, Navarra (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "13,0%",
-            "info_bottle": "0,75 L",
-            "info_do": "Rioja",
-            "info_elaboration": "Período de crianza: 36 meses Edad de las barricas: Usadas Tipo de madera: Roble americano Clarificación y filtración: No filtrado Producción: 99000 botellas",
-            "info_grape": "Tempranillo,   Garnacha,   Mazuelo y Graciano",
-            "info_owner": "Bodegas R. López de Heredia Viña Tondonia",
-            "info_pairing": "Legumbres / caza menor / setas silvestres",
-            "info_recommendations": "Temperatura de servicio óptima: 18ºC Decantación: Se recomienda airear Consumo y conservación: Para consumir ahora o conservar hasta 2022.",
-            "info_text": "Las uvas de cerca de 40 años que se emplean en la elaboración del Viña Cubillo proceden de la finca Viña Cubillas, propiedad de la familia López de Heredia durante las últimas tres generaciones. De aquí se obtienen uvas de primerísima calidad que se destinan cada año a la elaboración del \"pequeño\" de los Viña Tondonia. Pese a ser el tinto más joven de la firma, ha envejecido durante 3 años en barricas viejas; quizás por eso el Viña Cubillo nos recuerde más a un reserva o gran reserva que a un crianza, apelativo con el que llega al mercado. El tiempo siempre ha sido un aliado en López de Heredia y ésta no iba a ser la excepción. El corte de las cuatro uvas tintas riojanas clásicas es sometido a 2 trasiegas por año y se clarifica con claras de huevo, como manda la tradición. Se embotella en cristal verde acentuando su carácter tradicional y sin filtrar, para llegar a nuestras copas puro y brillante, con un precioso color rubí. En nariz parece ligero al tiempo que complejo; huele a frutillos rojos y regaliz, a tierra, a hongos y cuero. En boca es muy fino de principio a fin, una extraordinaria acidez conduce el vino y refuerza su equilibrio. Se percibe un volumen mayor del que la vista hacía presagiar, se ensancha envolviendo el paladar en una textura sedosa y delicada. Emergen recuerdos de prunas, guindas, vainillas y tabaco, y una sutil mineralidad que nos habla de la tierra riojana. Persiste, se va dejando un rastro de frescor y complejidad delicioso, de vino clásico, de casa histórica. Decántenlo y lo gozarán aún más.",
-            "info_type": "Vino tinto crianza"
-        },
-        "grape": "Tempranillo,Garnacha,Mazuelo,Graciano",
-        "name": "Viña Cubillo 2008",
-        "owner": "Bodegas R. López de Heredia Viña Tondonia",
-        "points": "4.0 de 5 estrellas. Basado en 5 opiniones de cliente",
-        "price": "12,50 €",
-        "type": "Vino tinto crianza, Rioja (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "15,0%",
-            "info_bottle": "0,75 L",
-            "info_do": "Priorat",
-            "info_elaboration": "Envejecimiento: Envejecido parcialmente (50%) durante 4 meses en barricas de roble francés.",
-            "info_grape": "Garnacha,   Cariñena,   Cabernet Sauvignon,   Merlot y Syrah",
-            "info_owner": "Casa Gran del Siurana",
-            "info_pairing": "Arroces / carnes rojas / paella de pescado / carnes asadas / tapas / arroz negro / salchichas",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 17ºC",
-            "info_text": "El GR-174 es un sendero de Gran Recorrido que recorre el Priorato desde el puerto de nombre Coll de la Teixeta, cerca de Porrera, hasta Albarca, una pequeña población situada al extremo oriental de la sierra de Montsant. En la etiqueta de la botella encontrarán un pequeño mapa que lo señala, es un recorrido de 72 km que permite contemplar el paisaje abrupto y montañoso de esta comarca, bordado con zonas de bosque, viñedos y olivos, visitar sus singulares pueblos llenos de historia vinícola, de aspecto medieval, con calles empinadas y casas de piedra, adentrarse en el Parque Natural de la Sierra del Montsant para disfrutar de sus excepcionales vistas y visitar incluso las ruinas de la Cartuja de Escaladei. Un recorrido sin dificultades, tan accesible y fácil de disfrutar como este vino que lleva su nombre. GR-174 es un vino muy fácil de beber, abierto ¡y extraordinariamente vivo! Está concebido como vino joven, elaborado mayoritariamente con garnacha (40%) y cariñena (20%) y envejecido sólo parcialmente en roble y durante unos pocos meses, y así se nos presenta ante nuestros sentidos: repleto de aromas y sabores primarios, con mucha fruta fresca y crujiente, sin gran extracción pero tampoco le falta cuerpo ni potencia, ¡raro sería obtener un vino ligero en esta denominación! GR-174 tiene un color muy vivo en copa, un brillante color rubí, y si bien tiene suficiente acidez para evolucionar durante varios años, es fantástico ya ahora, muy amable y con una textura aterciopelada. En nariz ofrece notas florales pero sobre todo mucha fruta madura, con un toque mentolado muy refrescante, y tiene volumen en boca; es muy jugoso, graso, con un agradable dulzor procedente de esa fruta madura, profundo e intenso. En resumen, un bonito recorrido por ese paisaje al que aludíamos al principio: caminos polvorientos rodeados de jaras, tomillos, lavandas... que nos perfumarán el andar en un ambiente cálido y seco de día, fresco de noche. Al terminar la última gota, les dejará una sensación similar a la de haber recogido algunos racimos en el mismo viñedo. Fruta y paisaje. Dos experiencias que les aconsejamos no perderse en cualesquiera de las estaciones del año.",
-            "info_type": "Vino tinto joven con crianza"
-        },
-        "grape": "Garnacha,Cariñena,CabernetSauvignon,Merlot,Syrah",
-        "name": "GR-174 Casa Gran del Siurana 2016",
-        "owner": "Casa Gran del Siurana",
-        "points": "4.67 de 5 estrellas. Basado en 6 opiniones de cliente",
-        "price": "10,50 €",
-        "type": "Vino tinto joven con crianza, Priorat (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "13,5%",
-            "info_bottle": "0,75 L",
-            "info_do": "Ribera del Duero",
-            "info_elaboration": "Envejecimiento: Envejecido durante 20 meses en barricas de roble francés.",
-            "info_grape": "Tempranillo",
-            "info_owner": "Bodegas Hnos. Pérez Pascuas",
-            "info_pairing": "Liebre / ossobuco / perdiz",
-            "info_recommendations": "Temperatura de servicio óptima: 16ºC Consumo y conservación: Para consumir ahora o conservar hasta 2026.",
-            "info_text": "Las uvas de tempranillo con las que se elabora este vino provienen de un único viñedo, de cepas de entre 35 y 40 años, situado a más de 800 metros de altitud en Pedrosa de Duero. Los rendimientos son escasos, alrededor de 3500kg/ha, pero gracias a ello y a los fuertes contrastes térmicos de la finca, la expresividad de los mostos es extraordinaria. En copa se muestra opaco e intenso, de caída pausada. En nariz exhibe gran complejidad, mezclando las notas de fruta madura con los tonos ahumados y torrefactos derivados de su crianza en barrica. Especiado y mineral al tiempo que equilibrado y jugoso. Un tinto fresco y balsámico de fuerte personalidad que seguirá creciendo en botella.",
-            "info_type": "Vino tinto reserva"
-        },
-        "grape": "Tempranillo",
-        "name": "Viña Pedrosa Finca La Navilla 2014",
-        "owner": "Bodegas Hnos. Pérez Pascuas",
-        "points": null,
-        "price": "24,65 €",
-        "type": "Vino tinto reserva, Ribera del Duero (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "14,0%",
-            "info_bottle": "0,75 L",
-            "info_do": "Ribera del Duero",
-            "info_elaboration": "Período de crianza: 12 meses Tipo de madera: Roble francés y americano Producción: 600000 botellas",
-            "info_grape": "Tempranillo",
-            "info_owner": "Bodegas Emilio Moro",
-            "info_pairing": "Ternasco asado / solomillo / quesos curados",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 14ºC y 16ºC Consumo y conservación: Para consumir ahora o conservar hasta 2021.",
-            "info_text": "El Emilio Moro es el vino de mayor producción de la bodega y el que luce con orgullo el nombre y la imagen del fundador. En palabras de José Moro, \"es el ALMA MATER, es mi padre, y con eso queda dicho todo\". Ciertamente, no hay mucho más a añadir: elaborado con viñedos de entre 15 y 25 años, recoge la esencia de los tres tipos de suelos de la Ribera del Duero otorgando al vino una amplia variedad de matices. Un vino amable, rico, fresco, vivo, elegante, complejo...: el buque insignia de la bodega y un gran representante de esta denominación castellana. En copa, presume de color cereza picota y refleja gran variedad de sensaciones olfativas que se prolongarán después en boca de manera intensa, amable y apetecible. Destaca su riqueza y variedad en aromas tales como tostados, cerezas, regaliz o vainilla. En boca es jugoso y fresco, fácilmente identificable como Ribera del Duero por lo bien que conjuga expresión y amabilidad. Es armonioso, con la fruta como gran protagonista; de taninos delicados y madera perfectamente integrada seduce a cada sorbo, haciéndonos prometer, una vez tras otra, que el próximo será el último.",
-            "info_type": "Vino tinto crianza"
-        },
-        "grape": "Tempranillo",
-        "name": "Emilio Moro 2015",
-        "owner": "Bodegas Emilio Moro",
-        "points": "4.75 de 5 estrellas. Basado en 4 opiniones de cliente",
-        "price": "17,90 €",
-        "type": "Vino tinto crianza, Ribera del Duero (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "15,0%",
-            "info_bottle": "0,75 L",
-            "info_do": "Toro",
-            "info_elaboration": "Período de crianza: 12 meses Edad de las barricas: Nuevas Tipo de madera: Roble francés y americano Producción: 759700 botellas",
-            "info_grape": "Tinta de Toro",
-            "info_owner": "Bodegas y Viñedos Pintia",
-            "info_pairing": "Solomillo de buey / legumbres guisadas / cocido",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 18ºC",
-            "info_text": "Pintia es a Toro, lo que Vega Sicilia es a la Ribera del Duero. Ambas bodegas centran todos sus esfuerzos en la que sin duda es su obsesión: la perfección. Pintia fue uno de los primeros tintos en confirmar la sutilidad y la elegancia de la que es capaz la variedad tinta de Toro cuando se conoce bien y se trabaja con mimo y respeto. Pintia supuso un antes y un después en los vinos de la denominación de Toro y elevó los estándares de calidad a niveles hasta entonces insospechados. Tintos potentes hay muchos en Toro, así como algunos muy elegantes, pero son muy pocos los que aúnan potencia y elegancia de una manera tan señorial como lo consigue el Pintia. Las uvas, vendimiadas a mano y seleccionadas en el viñedo, se someten a una doble selección en bodega y son refrigeradas para preservar su intensidad frutal; fermentan en acero inoxidable y roble, y después descansan alrededor de un año en madera mayoritariamente francesa. El vino que resulta es profundo e intenso, con un hipnótico color picota y una nariz nítida y distinguida dominada por los aromas de fruta madura (moras y arándanos), maderas nobles, especias y recuerdos balsámicos. En boca es amplio y largo, perfumado y rústico, tánico al tiempo que amable. Huye de los aromas licorosos y las sobremaduraciones, gracias a una milimétrica acidez. Su final, cargado de vainillas y flores azules, culmina en un postgusto eterno capaz de fundir el más gélido de los corazones.",
-            "info_type": "Vino tinto crianza"
-        },
-        "grape": "TintadeToro",
-        "name": "Pintia 2012",
-        "owner": "Bodegas y Viñedos Pintia",
-        "points": "4.75 de 5 estrellas. Basado en 4 opiniones de cliente",
-        "price": "34,10 €",
-        "type": "Vino tinto crianza, Toro (España)"
     },
     {
         "detailed": {
@@ -574,6 +314,8 @@
             "info_type": "Vino tinto reserva"
         },
         "grape": "Tempranillo,Garnacha,Graciano,Mazuelo",
+        "hash": "58a671b2f588f5692de747a957af7a2d",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/58a671b2f588f5692de747a957af7a2d.jpg",
         "name": "Viña Tondonia Reserva 2005",
         "owner": "Bodegas R. López de Heredia Viña Tondonia",
         "points": "4.5 de 5 estrellas. Basado en 8 opiniones de cliente",
@@ -582,21 +324,134 @@
     },
     {
         "detailed": {
+            "info_alcohol": "11,5%",
+            "info_bottle": "0,75 L",
+            "info_do": "Cava",
+            "info_elaboration": "Envejecimiento: Envejecido durante 15 meses en las cavas.",
+            "info_grape": "Macabeo,   Parellada y Xarel·lo",
+            "info_owner": "Perelada",
+            "info_pairing": "Salpicones / quesos suaves / postres no muy dulces",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 5ºC y 6ºC",
+            "info_text": "El Perelada Brut Reserva es un cava catalán que combina las tres uvas tradicionales para ofrecerse equilibrado y armonioso. A la elegancia habitual de los vinos de esta bodega, éste suma esos destellos dulces que lo convierten en un espumoso verdaderamente versátil. Su nariz de flores y fruta blanca seduce al instante y sus finas burbujas transportan los recuerdos a hinojo y hierba fresca con delicadeza.",
+            "info_type": "Vino espumoso reserva"
+        },
+        "grape": "Macabeo,Parellada,Xarel·lo",
+        "hash": "fcb63c6c04f5a1db7e975fcd8df3fdb4",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/fcb63c6c04f5a1db7e975fcd8df3fdb4.jpg",
+        "name": "Perelada Brut Reserva",
+        "owner": "Perelada",
+        "points": "4.88 de 5 estrellas. Basado en 8 opiniones de cliente",
+        "price": "5,30 €",
+        "type": "Vino espumoso reserva, Cava (España)"
+    },
+    {
+        "detailed": {
             "info_alcohol": "14,5%",
             "info_bottle": "0,75 L",
+            "info_do": "Navarra",
+            "info_elaboration": "Envejecimiento: Criando durante 10 meses en barricas de roble francés.",
+            "info_grape": "Tempranillo,   Cabernet Sauvignon y Merlot",
+            "info_owner": "Bodegas Viña Magaña",
+            "info_pairing": "Arroces / carnes rojas / carnes blancas / guisos de carne / asados / parrilladas",
+            "info_recommendations": "Temperatura de servicio óptima: 18ºC",
+            "info_text": "Con un 50% de tempranillo, 25% de merlot y 25% de cabernet sauvignon, el pequeño Dignus ha sabido conquistar los paladares de los consumidores por su frescor y su accesibilidad, siendo a la vez un vino potente, rico y lleno de fruta.",
+            "info_type": "Vino tinto joven con crianza"
+        },
+        "grape": "Tempranillo,CabernetSauvignon,Merlot",
+        "hash": "46fa860d708ba473187bc65f80961d08",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/46fa860d708ba473187bc65f80961d08.jpg",
+        "name": "Magaña Dignus 2012",
+        "owner": "Bodegas Viña Magaña",
+        "points": "4.13 de 5 estrellas. Basado en 8 opiniones de cliente",
+        "price": "7,50 €",
+        "type": "Vino tinto joven con crianza, Navarra (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "15,0%",
+            "info_bottle": "0,75 L",
+            "info_do": "Priorat",
+            "info_elaboration": "Envejecimiento: Envejecido parcialmente (50%) durante 4 meses en barricas de roble francés.",
+            "info_grape": "Garnacha,   Cariñena,   Cabernet Sauvignon,   Merlot y Syrah",
+            "info_owner": "Casa Gran del Siurana",
+            "info_pairing": "Arroces / carnes rojas / paella de pescado / carnes al horno / tapas / arroz negro / salchichas",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 17ºC",
+            "info_text": "El GR-174 es un sendero de Gran Recorrido que recorre el Priorato desde el puerto de nombre Coll de la Teixeta, cerca de Porrera, hasta Albarca, una pequeña población situada al extremo oriental de la sierra de Montsant. En la etiqueta de la botella encontrarán un pequeño mapa que lo señala, es un recorrido de 72 km que permite contemplar el paisaje abrupto y montañoso de esta comarca, bordado con zonas de bosque, viñedos y olivos, visitar sus singulares pueblos llenos de historia vinícola, de aspecto medieval, con calles empinadas y casas de piedra, adentrarse en el Parque Natural de la Sierra del Montsant para disfrutar de sus excepcionales vistas y visitar incluso las ruinas de la Cartuja de Escaladei. Un recorrido sin dificultades, tan accesible y fácil de disfrutar como este vino que lleva su nombre. GR-174 es un vino muy fácil de beber, abierto ¡y extraordinariamente vivo! Está concebido como vino joven, elaborado mayoritariamente con garnacha (40%) y cariñena (20%) y envejecido sólo parcialmente en roble y durante unos pocos meses, y así se nos presenta ante nuestros sentidos: repleto de aromas y sabores primarios, con mucha fruta fresca y crujiente, sin gran extracción pero tampoco le falta cuerpo ni potencia, ¡raro sería obtener un vino ligero en esta denominación! GR-174 tiene un color muy vivo en copa, un brillante color rubí, y si bien tiene suficiente acidez para evolucionar durante varios años, es fantástico ya ahora, muy amable y con una textura aterciopelada. En nariz ofrece notas florales pero sobre todo mucha fruta madura, con un toque mentolado muy refrescante, y tiene volumen en boca; es muy jugoso, graso, con un agradable dulzor procedente de esa fruta madura, profundo e intenso. En resumen, un bonito recorrido por ese paisaje al que aludíamos al principio: caminos polvorientos rodeados de jaras, tomillos, lavandas... que nos perfumarán el andar en un ambiente cálido y seco de día, fresco de noche. Al terminar la última gota, les dejará una sensación similar a la de haber recogido algunos racimos en el mismo viñedo. Fruta y paisaje. Dos experiencias que les aconsejamos no perderse en cualesquiera de las estaciones del año.",
+            "info_type": "Vino tinto joven con crianza"
+        },
+        "grape": "Garnacha,Cariñena,CabernetSauvignon,Merlot,Syrah",
+        "hash": "49659cc3e78de3d3c90dd8761c5edf79",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/49659cc3e78de3d3c90dd8761c5edf79.jpg",
+        "name": "GR-174 Casa Gran del Siurana 2016",
+        "owner": "Casa Gran del Siurana",
+        "points": "4.67 de 5 estrellas. Basado en 6 opiniones de cliente",
+        "price": "10,50 €",
+        "type": "Vino tinto joven con crianza, Priorat (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "13,5%",
+            "info_bottle": "0,75 L",
+            "info_do": "Ribera del Duero",
+            "info_elaboration": "Envejecimiento: Envejecido durante 12 meses en barricas nuevas y seminuevas de roble francés. Posteriormente reposa durante doce meses más en botella.",
+            "info_grape": "Tempranillo",
+            "info_owner": "Pago de los Capellanes",
+            "info_pairing": "Arroces de carne / carnes a la piedra / quesos curados",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 14ºC y 16ºC",
+            "info_text": "El Pago de los Capellanes Crianza es un vino que prácticamente no requiere presentación. Se trata de uno de los principales baluartes de la bodega de Pedrosa de Duero, un tinto que pese a compartir protagonismo con los otros cuatro tintos de la casa, ha conseguido posicionarse por sí sólo gracias a su enorme personalidad. Como es habitual en Pago de los Capellanes, se elabora únicamente con uvas de la variedad tempranillo cultivadas sobre suelos arcillocalcáreos, y comparte con sus hermanos la elegancia y la estructura que parecen ya indisociables a la bodega del matrimonio Rodero-Villa. La vendimia de sus uvas suele iniciarse en octubre y el mosto empieza a fermentar poco después, con levaduras autóctonas. Acabada la fermentación, el vino se traslada a barricas de roble francés de 300 litros en las que se armoniza durante doce meses antes de su embotellado. Tras el corcho de cada botella se esconde un vino de color picota intenso, con bordes violáceos. En nariz es noble y honesto, y la aparente pugna entre los aromas primarios de la fruta (ciruelas y moras) y los derivados de la crianza (especias y torrefactos) se zanja con un resultado beneficioso para ambas partes; tales son su equilibrio y complejidad. Las especias como la vainilla y la pimienta dan la mano a los aromas de frutos silvestres y regaliz llevándonos ineludiblemente a un primer sorbo impactante. En boca es delicado y firme a la par, cremoso y balsámico, con taninos finos pero vivos que permiten gozarlo de inmediato o guardarlo durante un buen tiempo. Su final es pura esencia de la Ribera del Duero: largo, equilibrado y adictivo.",
+            "info_type": "Vino tinto crianza"
+        },
+        "grape": "Tempranillo",
+        "hash": "dd0ffdd960ea57ebfba0706f934ed2a5",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/dd0ffdd960ea57ebfba0706f934ed2a5.jpg",
+        "name": "Pago de los Capellanes Crianza 2015",
+        "owner": "Pago de los Capellanes",
+        "points": "4.5 de 5 estrellas. Basado en 4 opiniones de cliente",
+        "price": "19,40 €",
+        "type": "Vino tinto crianza, Ribera del Duero (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "13,0%",
+            "info_bottle": "0,75 L",
+            "info_do": "Rueda",
+            "info_elaboration": "Producción: 510000 botellas",
+            "info_grape": "Verdejo",
+            "info_owner": "Angel Lorenzo Cachazo",
+            "info_pairing": "Aperitivos / arroces / pescados / crustáceos",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 6ºC y 8ºC",
+            "info_text": "Proyecto de Ángel Lorenzo Cachazo y de su hijo Javier con Uvas Felices en Rueda. Los proyectos vinícolas que componen Uvas Felices son Ca N’Estruc, L’Origan, El Perro Verde, Fenomenal, El Jardín de Lucía, Sospechoso, Venta Las Vacas, Paisajes, La Locomotora, Viña Al Lado de la Casa y El Hombre Bala.",
+            "info_type": "Vino blanco sin crianza"
+        },
+        "grape": "Verdejo",
+        "hash": "8656d967f88170d269c373dc0ab7030a",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/8656d967f88170d269c373dc0ab7030a.jpg",
+        "name": "El Perro Verde 2016",
+        "owner": "Angel Lorenzo Cachazo",
+        "points": "4.2 de 5 estrellas. Basado en 10 opiniones de cliente",
+        "price": "9,30 €",
+        "type": "Vino blanco sin crianza, Rueda (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "15,0%",
+            "info_bottle": "0,75 L",
             "info_do": "Toro",
-            "info_elaboration": "Envejecimiento: Fermentación maloláctica en barrica (30% en barricas nuevas). Envejecido durante 14 meses en barricas de roble francés, nuevas (30%) y de un vino (70%).",
+            "info_elaboration": "Período de crianza: 12 meses Edad de las barricas: Nuevas Tipo de madera: Roble francés y americano Producción: 759700 botellas",
             "info_grape": "Tinta de Toro",
-            "info_owner": "Teso La Monja",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 18ºC Consumo y conservación: Para consumir ahora o conservar hasta 2021.",
-            "info_text": "Almirez es un vino concentrado, con mucho cuerpo, elegante y potente, y a la vez fresco y frutoso, con la expresividad y la elegancia características de los vinos elaborados por esta familia, los Eguren, cuya experiencia cuenta ya con cinco generaciones de viticultores. Un vino que nunca defrauda, para tener siempre en casa, para disfrutar recién salido al mercado o conservar en bodega durante unos diez años; un vino largo y persistente, que nos permite disfrutar de la magia de la tinta de Toro a muy buen precio.",
+            "info_owner": "Bodegas y Viñedos Pintia",
+            "info_pairing": "Solomillo de buey / legumbres guisadas / cocido",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 18ºC",
+            "info_text": "Pintia es a Toro, lo que Vega Sicilia es a la Ribera del Duero. Ambas bodegas centran todos sus esfuerzos en la que sin duda es su obsesión: la perfección. Pintia fue uno de los primeros tintos en confirmar la sutilidad y la elegancia de la que es capaz la variedad tinta de Toro cuando se conoce bien y se trabaja con mimo y respeto. Pintia supuso un antes y un después en los vinos de la denominación de Toro y elevó los estándares de calidad a niveles hasta entonces insospechados. Tintos potentes hay muchos en Toro, así como algunos muy elegantes, pero son muy pocos los que aúnan potencia y elegancia de una manera tan señorial como lo consigue el Pintia. Las uvas, vendimiadas a mano y seleccionadas en el viñedo, se someten a una doble selección en bodega y son refrigeradas para preservar su intensidad frutal; fermentan en acero inoxidable y roble, y después descansan alrededor de un año en madera mayoritariamente francesa. El vino que resulta es profundo e intenso, con un hipnótico color picota y una nariz nítida y distinguida dominada por los aromas de fruta madura (moras y arándanos), maderas nobles, especias y recuerdos balsámicos. En boca es amplio y largo, perfumado y rústico, tánico al tiempo que amable. Huye de los aromas licorosos y las sobremaduraciones, gracias a una milimétrica acidez. Su final, cargado de vainillas y flores azules, culmina en un postgusto eterno capaz de fundir el más gélido de los corazones.",
             "info_type": "Vino tinto crianza"
         },
         "grape": "TintadeToro",
-        "name": "Almirez 2015",
-        "owner": "Teso La Monja",
-        "points": "4.0 de 5 estrellas. Basado en 5 opiniones de cliente",
-        "price": "15,50 €",
+        "hash": "9af401d16d4d0bc44f47252104c2afa6",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/9af401d16d4d0bc44f47252104c2afa6.jpg",
+        "name": "Pintia 2012",
+        "owner": "Bodegas y Viñedos Pintia",
+        "points": "4.75 de 5 estrellas. Basado en 4 opiniones de cliente",
+        "price": "34,10 €",
         "type": "Vino tinto crianza, Toro (España)"
     },
     {
@@ -613,48 +468,13 @@
             "info_type": "Vino espumoso gran reserva"
         },
         "grape": "Macabeo,Parellada,Xarel·lo",
+        "hash": "f00cb0eb5f0bd22de515babce1eb04e9",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/f00cb0eb5f0bd22de515babce1eb04e9.jpg",
         "name": "Juvé y Camps Reserva de la Familia 2014",
         "owner": "Juvé y Camps",
         "points": "4.0 de 5 estrellas. Basado en 2 opiniones de cliente",
-        "price": "14,18 €",
+        "price": "15,75 €",
         "type": "Vino espumoso gran reserva, Cava (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "13,0%",
-            "info_bottle": "0,75 L",
-            "info_do": "Rueda",
-            "info_grape": "Verdejo",
-            "info_owner": "Bodegas Protos",
-            "info_pairing": "Arroces de pescado / platos de pasta / pescados / marisco / crustáceos / quesos frescos / verduras / sopas",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 6ºC y 8ºC",
-            "info_text": "Un verdejo fresco y frutal que viene a completar la gama de la decana de tintos de la Ribera del Duero.",
-            "info_type": "Vino blanco sin crianza"
-        },
-        "grape": "Verdejo",
-        "name": "Protos Verdejo 2016",
-        "owner": "Bodegas Protos",
-        "points": "4.45 de 5 estrellas. Basado en 11 opiniones de cliente",
-        "price": "5,95 €",
-        "type": "Vino blanco sin crianza, Rueda (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "13,0%",
-            "info_bottle": "0,75 L",
-            "info_do": "Vinos sin IG",
-            "info_grape": "Tempranillo y Graciano",
-            "info_owner": "The Wine Love",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 12ºC y 14ºC",
-            "info_text": "Este vino es obra del enólogo Gonzalo Gonzalo.En la etiqueta de la botella de Gran Cerdo queda claro de dónde le viene el nombre a este vino y a quién va dedicado.“Gran Cerdo es un gran vino dedicado a los directores de banco que nos negaron préstamos aduciendo que el vino no era un bien embargable. Corpulentos, sudorosos y trajeados personajes, algún día descubriréis que las cosas más importantes de la vida no se pueden embargar. Gracias a los amigos, pues con su ayuda conseguimos al fin hacer el embotellado. Ahora puedes disfrutar de nuestra criatura más ácida, pruébalo con pasta o jamón, de cerdo.”NOTA: Este vino no esta acogido a ninguna denominación de origen; se etiqueta como Vino de Mesa.",
-            "info_type": "Vino tinto joven"
-        },
-        "grape": "Tempranillo,Graciano",
-        "name": "Gran Cerdo",
-        "owner": "The Wine Love",
-        "points": "4.5 de 5 estrellas. Basado en 14 opiniones de cliente",
-        "price": "4,50 €",
-        "type": "Vino tinto joven, Vinos sin IG (España)"
     },
     {
         "detailed": {
@@ -664,56 +484,19 @@
             "info_elaboration": "Período de crianza: 6 meses Tipo de madera: Roble americano",
             "info_grape": "Tempranillo",
             "info_owner": "Bodegas Protos",
-            "info_pairing": "Arroces / carnes asadas / carnes rojas / embutidos / pastas con salsa boloñesa",
+            "info_pairing": "Arroces / carnes al horno / carnes rojas / embutidos / pastas con salsa boloñesa",
             "info_recommendations": "Temperatura de servicio óptima: Entre 15ºC y 17ºC",
             "info_text": "Un Protos de corta crianza pero con la elegancia característica de sus hermanos de bodega, un tinto joven, suave y lleno de matices frutales.",
             "info_type": "Vino tinto joven con crianza"
         },
         "grape": "Tempranillo",
+        "hash": "087d06affe876c5560f802c9f5781f96",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/087d06affe876c5560f802c9f5781f96.jpg",
         "name": "Protos Roble 2016",
         "owner": "Bodegas Protos",
         "points": "3.0 de 5 estrellas. Basado en 1 opiniones de cliente",
         "price": "7,80 €",
         "type": "Vino tinto joven con crianza, Ribera del Duero (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "13,5%",
-            "info_bottle": "0,75 L",
-            "info_do": "Rioja",
-            "info_elaboration": "Envejecimiento: Envejecido durante 20 meses en barricas nuevas de roble americano y posteriormente durante 24 meses en botella.",
-            "info_grape": "Tempranillo",
-            "info_owner": "Barón de Ley",
-            "info_pairing": "Carnes rojas y platos de caza, asados, aves, carnes blancas, jamón serrano, charcutería, quesos curados, quesos azules.",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 14ºC y 18ºC",
-            "info_text": "Elaborado a partir de uvas procedentes de los propios viñedos de Mendavia (Rioja Baja).",
-            "info_type": "Vino tinto reserva"
-        },
-        "grape": "Tempranillo",
-        "name": "Barón de Ley Reserva 2013",
-        "owner": "Barón de Ley",
-        "points": null,
-        "price": "9,95 €",
-        "type": "Vino tinto reserva, Rioja (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "14,5%",
-            "info_bottle": "0,75 L",
-            "info_do": "Priorat",
-            "info_elaboration": "Envejecimiento: Envejecido durante 8 meses en barricas de roble francés y americano.",
-            "info_grape": "Garnacha,   Cariñena y Syrah",
-            "info_owner": "Domini de la Cartoixa",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 15ºC y 16ºC",
-            "info_text": "El primer touch olfativo de Formiga nos recuerda a los vinos de maceración carbónica, donde dominan las impresiones de cerezas y palotes de fresa; un buen agitado en copa los desarrolla en aromas anisados e higos. Y algo muy curioso, Formiga desprende olores a pimienta negra y raspón, elementos muy comunes con ciertos vinos del Ródano. La bouche es sabrosa y concentrada, con una dosis de excelente madurez que se aprecia muy bonita; una madurez justa e impecable de texturas atlánticas que indican una elegante frescura. Formiga ¡acaricia el paladar!",
-            "info_type": "Vino tinto joven con crianza"
-        },
-        "grape": "Garnacha,Cariñena,Syrah",
-        "name": "Formiga de Vellut 2015",
-        "owner": "Domini de la Cartoixa",
-        "points": null,
-        "price": "13,55 €",
-        "type": "Vino tinto joven con crianza, Priorat (España)"
     },
     {
         "detailed": {
@@ -728,71 +511,13 @@
             "info_type": "Vino tinto joven"
         },
         "grape": "Mencía",
+        "hash": "2f8e35ecd99d08e220dcfa1cbdab98f8",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/2f8e35ecd99d08e220dcfa1cbdab98f8.jpg",
         "name": "El Castro de Valtuille Mencía Joven 2016",
         "owner": "Bodegas y Viñedos Castro Ventosa",
         "points": null,
         "price": "5,95 €",
         "type": "Vino tinto joven, Bierzo (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "11,5%",
-            "info_bottle": "0,75 L",
-            "info_do": "Cava",
-            "info_elaboration": "Envejecimiento: Envejecido durante 15 meses en las cavas.",
-            "info_grape": "Macabeo,   Parellada y Xarel·lo",
-            "info_owner": "Perelada",
-            "info_pairing": "Salpicones / quesos suaves / postres no muy dulces",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 5ºC y 6ºC",
-            "info_text": "El Perelada Brut Reserva es un cava catalán que combina las tres uvas tradicionales para ofrecerse equilibrado y armonioso. A la elegancia habitual de los vinos de esta bodega, éste suma esos destellos dulces que lo convierten en un espumoso verdaderamente versátil. Su nariz de flores y fruta blanca seduce al instante y sus finas burbujas transportan los recuerdos a hinojo y hierba fresca con delicadeza.",
-            "info_type": "Vino espumoso reserva"
-        },
-        "grape": "Macabeo,Parellada,Xarel·lo",
-        "name": "Perelada Brut Reserva",
-        "owner": "Perelada",
-        "points": "4.88 de 5 estrellas. Basado en 8 opiniones de cliente",
-        "price": "4,77 €",
-        "type": "Vino espumoso reserva, Cava (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "13,0%",
-            "info_bottle": "0,75 L",
-            "info_do": "Rías Baixas",
-            "info_elaboration": "Envejecimiento: Parcialmente fermentado en barricas de roble.",
-            "info_grape": "Albariño",
-            "info_owner": "Bodega Forjas del Salnés",
-            "info_pairing": "Bacalao / marisco / aperitivos / ostras / arroces caldosos",
-            "info_recommendations": "Temperatura de servicio óptima: 5ºC Consumo y conservación: Para consumir ahora o conservar hasta 2019.",
-            "info_text": "El Leirana Albariño es un blanco monovarietal elaborado con uvas de viñedos viejos de la comarca de Salnés. Una vez finalizada la fermentación, se deja descansar el vino con sus lías hasta conseguir la textura y la aromática deseada. Así, cuando llega a nuestras copas muestra color amarillo pálido con destellos dorados y nariz nítida de fruta blanca y de hueso, adornada de flores y hierba fresca. En boca es fresco y ágil, con cierta untuosidad, mineralidad y carácter varietal. Final elegante y ligeramente amargo, recordando sutilmente la piel de limón.",
-            "info_type": "Vino blanco con crianza"
-        },
-        "grape": "Albariño",
-        "name": "Leirana Albariño 2016",
-        "owner": "Bodega Forjas del Salnés",
-        "points": "5.0 de 5 estrellas. Basado en 2 opiniones de cliente",
-        "price": "12,90 €",
-        "type": "Vino blanco con crianza, Rías Baixas (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "12,5%",
-            "info_bottle": "0,75 L",
-            "info_do": "Rías Baixas",
-            "info_elaboration": "Vendimia: La vendimia se lleva a cabo de forma manual. Se transporta en pequeñas cajas de plástico a la bodega lo más rápido posible para evitar el deterioro de la uva y su calentamiento Material de vinificación: Acero inoxidable Producción: 80000 botellas",
-            "info_grape": "Albariño",
-            "info_owner": "Gerardo Méndez",
-            "info_pairing": "Marisco / ostras / pescado blanco / merluza",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 8ºC y 10ºC Consumo y conservación: Para consumir ahora o conservar hasta 2021.",
-            "info_text": "Blanco extraordinario no demasiado conocido fuera de tierras gallegas pero objeto de culto entre los entendidos. Pocos vinos españoles reúnen tanta elegancia y un perfume tan fascinante. Un albariño de libro al alcance de todos los bolsillos.",
-            "info_type": "Vino blanco sin crianza"
-        },
-        "grape": "Albariño",
-        "name": "Do Ferreiro 2016",
-        "owner": "Gerardo Méndez",
-        "points": "4.4 de 5 estrellas. Basado en 5 opiniones de cliente",
-        "price": "13,50 €",
-        "type": "Vino blanco sin crianza, Rías Baixas (España)"
     },
     {
         "detailed": {
@@ -804,6 +529,8 @@
             "info_type": "Vino blanco sin crianza"
         },
         "grape": "Chardonnay",
+        "hash": "bf772b7730cb1eb55be2cff7b59b6902",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/bf772b7730cb1eb55be2cff7b59b6902.jpg",
         "name": "Otazu Chardonnay 2016",
         "owner": "Señorío de Otazu",
         "points": null,
@@ -812,62 +539,67 @@
     },
     {
         "detailed": {
-            "info_alcohol": "14,5%",
+            "info_alcohol": "15,0%",
             "info_bottle": "0,75 L",
-            "info_do": "Mallorca",
-            "info_elaboration": "Envejecimiento: Envejecido durante 12 meses en barricas nuevas de roble americano (30%) y en barricas seminuevas de roble francés (70%).",
-            "info_grape": "Callet,   Fogoneu y Cabernet Sauvignon",
-            "info_owner": "Ànima Negra Viticultors",
-            "info_pairing": "Tapas / embutidos / carnes blancas / sanjacobo / carnes estofadas con setas",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 17ºC",
-            "info_text": "ÀN/2 es un pequeño y gratificante regalo de la naturaleza mediterránea, ofrecido por un equipo de defensores de las variedades autóctonas y de los vinos con personalidad propia. Seguramente pocos han oído hablar de variedades como la callet o la fogoneu (o la manto negro, aunque no presente en todas las añadas de este vino); son variedades de Mallorca, adaptadas a su tierra, capaces de transmitir las particularidades del suelo, abundante en óxido férrico, y de ofrecer unos aromas diferenciados. ÀN/2 es un vino sincero. Es accesible, de calidad, bien hecho, refleja la tipicidad de Mallorca, tiene personalidad y ofrece una muy buena relación precio/placer. En copa prevemos que será un vino accesible: un color rojo guinda oscuro pero de media capa, sin una gran concentración, muy limpio y brillante. Nos lo acercamos a la nariz y disfrutamos en seguida de un amplio abanico de aromas, se muestra muy abierto y accesible, sin excesos: aromas de fruta madura fresca (cerezas, fresas, algunas cerezas en licor incluso, aunque sutilmente), notas dulces, de fresa dulce, notas balsámicas y un fondo mineral de piedras secas. Es muy fresco, sin duda un vino mediterráneo arropado por un suave perfume de notas ahumadas y notas lácticas. Un vino de una complejidad notable. En boca, ese dulzor percibido en nariz contrasta con un suave amargor que hace que el vino persista en el recuerdo. Es intenso, equilibrado y de trago fácil; generoso, de cuerpo medio, con un fondo terroso y unas notas de pimienta que, junto con su buena acidez, ofrecen una deliciosa y refrescante sensación. Envolvente y elegante (nos hace pensar en algunos pinot noirs de la borgoña), jugoso y redondo, se resiste a partir del recuerdo... que no de la botella; se termina fácilmente. En el postgusto, unos ligeros tostados y unas notas de montebajo, cierran la cata. Muy satisfactorio.",
+            "info_do": "Jumilla",
+            "info_elaboration": "Período de crianza: 12 meses Edad de las barricas: Nuevas Tipo de madera: Roble francés",
+            "info_grape": "Monastrell",
+            "info_owner": "Bodegas Juan Gil",
+            "info_pairing": "Arroces de carne / carne de venado / quesos curados / setas",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 14ºC y 16ºC",
+            "info_text": "Best-seller, ésta es la mejor manera de sintetizar este vino; cuando un vino de una zona menospreciada durante décadas convence a tantos consumidores, uno debe forzosamente prestarle atención. Juan Gil Etiqueta Plata resulta intenso a la vista, intenso en nariz y nuevamente intenso en boca, pero también seductor y elegante en las tres fases. Violetas, regaliz, finos tostados, recuerdos balsámicos, apuntes especiados, pero, sobre todo, fruta, toneladas de fruta madura y jugosa, casi como si de una mermelada de moras silvestres se tratara. Una delicada hoja de tabaco y algún delicado recuerdo a café se adivinan de fondo, pero nada resta protagonismo a la fruta. Los taninos son firmes y algo secantes, pero se integran a la perfección en el conjunto. La acidez justa conduce a un final contundente, dominado por la dulzura de la uva monastrell y los recuerdos torrefactos de la madera.",
             "info_type": "Vino tinto crianza"
         },
-        "grape": "Callet,Fogoneu,CabernetSauvignon",
-        "name": "Ànima Negra ÀN/2 2015",
-        "owner": "Ànima Negra Viticultors",
-        "points": "4.43 de 5 estrellas. Basado en 7 opiniones de cliente",
-        "price": "15,10 €",
-        "type": "Vino tinto crianza, Mallorca (España)"
+        "grape": "Monastrell",
+        "hash": "9b56c82c38e89d8f522c159b79daa162",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/9b56c82c38e89d8f522c159b79daa162.jpg",
+        "name": "Juan Gil Etiqueta Plata 2015",
+        "owner": "Bodegas Juan Gil",
+        "points": "4.25 de 5 estrellas. Basado en 4 opiniones de cliente",
+        "price": "10,60 €",
+        "type": "Vino tinto crianza, Jumilla (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "13,0%",
+            "info_bottle": "0,75 L",
+            "info_do": "Vinos sin IG",
+            "info_grape": "Tempranillo y Graciano",
+            "info_owner": "The Wine Love",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 12ºC y 14ºC",
+            "info_text": "Este vino es obra del enólogo Gonzalo Gonzalo.En la etiqueta de la botella de Gran Cerdo queda claro de dónde le viene el nombre a este vino y a quién va dedicado.“Gran Cerdo es un gran vino dedicado a los directores de banco que nos negaron préstamos aduciendo que el vino no era un bien embargable. Corpulentos, sudorosos y trajeados personajes, algún día descubriréis que las cosas más importantes de la vida no se pueden embargar. Gracias a los amigos, pues con su ayuda conseguimos al fin hacer el embotellado. Ahora puedes disfrutar de nuestra criatura más ácida, pruébalo con pasta o jamón, de cerdo.”NOTA: Este vino no esta acogido a ninguna denominación de origen; se etiqueta como Vino de Mesa.",
+            "info_type": "Vino tinto joven"
+        },
+        "grape": "Tempranillo,Graciano",
+        "hash": "041b8cb04e97eae310b9c64c57eb00cd",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/041b8cb04e97eae310b9c64c57eb00cd.jpg",
+        "name": "Gran Cerdo",
+        "owner": "The Wine Love",
+        "points": "4.5 de 5 estrellas. Basado en 16 opiniones de cliente",
+        "price": "4,50 €",
+        "type": "Vino tinto joven, Vinos sin IG (España)"
     },
     {
         "detailed": {
             "info_alcohol": "14,0%",
             "info_bottle": "0,75 L",
-            "info_do": "Bierzo",
-            "info_elaboration": "Período de crianza: 10 meses Tipo de madera: Roble francés Producción: 310000 botellas",
-            "info_grape": "Mencía y Alicante Bouschet",
-            "info_owner": "Descendientes de J. Palacios",
-            "info_pairing": "Filete de buey / cordero / charcutería / jamón / carpaccio de ternera / quesos azules",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 18ºC",
-            "info_text": "¿Bierzo o Borgoña?, nos preguntamos al servirnos la primera copa, recién abierto. Definitivamente Bierzo, pero un Bierzo particular también. Un vino sin duda fragante, de una gran calidad, placentero, con el que muy pocos otros vinos pueden competir en su gama de precio. Pétalos se elabora con uva de cepas muy viejas, plantadas a altitudes muy elevadas, en el término de Corullón, donde los suelos son mayoritariamente pizarrosos, en contraste con la mayoría de la región, de naturaleza arcillosa. Nace pues con unas condiciones ya muy específicas, a pesar de estar concebido, como sucede en Borgoña, como un vino regional, un vino de introducción al Bierzo. Lo es, sólo que con una personalidad diferenciada. A grandes rasgos, Pétalos es un vino de carácter atlántico y en él predomina la fruta acidulante, como corresponde a esta zona, con tan pocas horas de sol. No obstante, es un vino amable y dulzón, con un toque de golosina azucarada. Pétalos está en la línea del gran Moncerbal, cristalino y fluido, y ofrece sensaciones de fruta concentrada, que no sobremadura (los rendimientos de estos viñedos son bajísimos), huellas minerales, notas de grafito, humus y un fondo balsámico que gana en intensidad con el tiempo en copa; notas ahumadas también, silvestres (violetas, flor de jara), frescas... que se suman a su complejidad aromática y definen su perfil, un vino perfumado y femenino. En boca contrasta su gran acidez con una muy agradable sensación de terciopelo. El vino es potente, intenso, graso, con recuerdos de plantas aromáticas que le confieren un fondo sutilmente amargoso. La sensación de suavidad es el rasgo que mejor define el paladar... y su nombre: Pétalos.",
-            "info_type": "Vino tinto joven con crianza"
+            "info_do": "Ribera del Duero",
+            "info_elaboration": "Período de crianza: 12 meses Tipo de madera: Roble francés y americano Producción: 600000 botellas",
+            "info_grape": "Tempranillo",
+            "info_owner": "Bodegas Emilio Moro",
+            "info_pairing": "Ternasco asado / solomillo / quesos curados",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 14ºC y 16ºC Consumo y conservación: Para consumir ahora o conservar hasta 2021.",
+            "info_text": "El Emilio Moro es el vino de mayor producción de la bodega y el que luce con orgullo el nombre y la imagen del fundador. En palabras de José Moro, \"es el ALMA MATER, es mi padre, y con eso queda dicho todo\". Ciertamente, no hay mucho más a añadir: elaborado con viñedos de entre 15 y 25 años, recoge la esencia de los tres tipos de suelos de la Ribera del Duero otorgando al vino una amplia variedad de matices. Un vino amable, rico, fresco, vivo, elegante, complejo...: el buque insignia de la bodega y un gran representante de esta denominación castellana. En copa, presume de color cereza picota y refleja gran variedad de sensaciones olfativas que se prolongarán después en boca de manera intensa, amable y apetecible. Destaca su riqueza y variedad en aromas tales como tostados, cerezas, regaliz o vainilla. En boca es jugoso y fresco, fácilmente identificable como Ribera del Duero por lo bien que conjuga expresión y amabilidad. Es armonioso, con la fruta como gran protagonista; de taninos delicados y madera perfectamente integrada seduce a cada sorbo, haciéndonos prometer, una vez tras otra, que el próximo será el último.",
+            "info_type": "Vino tinto crianza"
         },
-        "grape": "Mencía,AlicanteBouschet",
-        "name": "Pétalos del Bierzo 2015",
-        "owner": "Descendientes de J. Palacios",
-        "points": "3.86 de 5 estrellas. Basado en 7 opiniones de cliente",
-        "price": "14,90 €",
-        "type": "Vino tinto joven con crianza, Bierzo (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "11,5%",
-            "info_bottle": "0,75 L",
-            "info_do": "Cava",
-            "info_elaboration": "Envejecimiento: Envejecido entre 24 y 30 meses en rima.",
-            "info_grape": "Parellada,   Macabeo y Xarel·lo",
-            "info_owner": "Caves Rigol",
-            "info_pairing": "Marisco / crustáceos / ahumados / pescados / carnes suaves / arroces / platos de pasta / aperitivos / sobremesa",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 5ºC y 7ºC",
-            "info_type": "Vino espumoso"
-        },
-        "grape": "Parellada,Macabeo,Xarel·lo",
-        "name": "Rigol Brut Nature",
-        "owner": "Caves Rigol",
-        "points": "3.86 de 5 estrellas. Basado en 7 opiniones de cliente",
-        "price": "3,38 €",
-        "type": "Vino espumoso, Cava (España)"
+        "grape": "Tempranillo",
+        "hash": "055bbc2657e8bca853346f631529f913",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/055bbc2657e8bca853346f631529f913.jpg",
+        "name": "Emilio Moro 2015",
+        "owner": "Bodegas Emilio Moro",
+        "points": "4.75 de 5 estrellas. Basado en 4 opiniones de cliente",
+        "price": "17,90 €",
+        "type": "Vino tinto crianza, Ribera del Duero (España)"
     },
     {
         "detailed": {
@@ -883,108 +615,13 @@
             "info_type": "Vino tinto joven con crianza"
         },
         "grape": "Tempranillo",
+        "hash": "bc048167783c97c0e7d7a5139843d632",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/bc048167783c97c0e7d7a5139843d632.jpg",
         "name": "La Planta 2016",
         "owner": "Bodegas Arzuaga Navarro",
         "points": "4.25 de 5 estrellas. Basado en 8 opiniones de cliente",
         "price": "7,95 €",
         "type": "Vino tinto joven con crianza, Ribera del Duero (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "12,5%",
-            "info_bottle": "0,75 L",
-            "info_do": "Rías Baixas",
-            "info_elaboration": "Vendimia: Las lluvias que se produjeron a principios de septiembre, antes de la vendimia, consiguieron una excelente maduración que nos proporcionó mostos con buen nivel de azúcar y suave acidez.</p> <p>El albariño se vendimia temprano entre el 19 y el 23 de septiembre y el Caíño es la última variedad que se recoge, entre el 29 de septiembre y el 3 de octubre, siendo la más tardía. El Loureiro del 26 al 28 de septiembre. Producción: 915000 botellas",
-            "info_grape": "Albariño,   Caiño Blanco y Loureiro",
-            "info_owner": "Bodegas Terras Gauda",
-            "info_pairing": "Ostras / marisco / pescado a la plancha",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 10ºC y 12ºC Decantación: No es necesario decantar",
-            "info_text": "El buque insignia de la bodega y un blanco original y con carácter elaborado a partir de una sabia mezcla de variedades autóctonas: albariño, caiño blanco y loureiro.",
-            "info_type": "Vino blanco sin crianza"
-        },
-        "grape": "Albariño,CaiñoBlanco,Loureiro",
-        "name": "Terras Gauda 2016",
-        "owner": "Bodegas Terras Gauda",
-        "points": "4.5 de 5 estrellas. Basado en 4 opiniones de cliente",
-        "price": "12,50 €",
-        "type": "Vino blanco sin crianza, Rías Baixas (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "15,0%",
-            "info_bottle": "0,75 L",
-            "info_do": "Alicante",
-            "info_elaboration": "Envejecimiento: Envejecido durante 14 meses en barricas de roble francés.",
-            "info_grape": "Monastrell",
-            "info_owner": "Bodegas Volver",
-            "info_pairing": "Barbacoas / arroces / platos consistentes / carnes asadas / embutidos ibéricos / carne de venado",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 15ºC y 17ºC",
-            "info_text": "Hay personas que parecen tener un don especial para encontrar las parcelas adecuadas y rodearse de grandes profesionales con el objeto de elaborar buenos vinos. Ya lo hemos dicho en repetidas ocasiones, Jorge Ordóñez es una de ellas. Pero es que además, este hombre y sus equipos son capaces de hacer llegar sus exquisitos vinos al gran público con unos precios de lo más asequibles. En Alicante, encontramos dos de los ejemplos más evidentes: un completísimo tinto por menos de 5 euros, el \"pequeño\" Tarima Monastrell, y un elegante, potente, complejo, serio y muy rico, por unos 10: Tarima Hill, no se lo pierdan. Tarima Hill se elabora con uvas monastrell exclusivamente; una uva autóctona capaz de resistir y adaptarse a extremas condiciones climáticas, así como a la escasez de lluvias, como las que encontramos en la zona alicantina. Son viñedos de edades comprendidas entre los 40 y los 75 años, plantados en vaso sobre suelos calcáreos y con unos rendimientos muy bajos. Unas características que se traducen, gracias al buen trabajo de Bodegas Volver, en un vino fresco y muy bien equilibrado. En copa presenta un color picota muy atractivo, capa media-alta. Esa viveza y una lágrima que desciende lentamente y tiñe la copa, además de una etiqueta que nos indica un 15% de alcohol, nos hace pensar que el vino será realmente poderoso. Y poderoso es, pero elegante también. No le tengamos miedo, esa densidad queda inmediatamente contrastada (y equilibrada) por un gran frescor en nariz y un rico abanico de aromas: fruta madura (arándanos, moras) y golosa, notas de especias dulces, suaves notas ahumadas, notas terrosas y un fondo mineral que gana protagonismo a medida que el vino va abriéndose en copa (recomendamos abrir la botella una hora antes de degustarlo y dejarlo reposar en copa unos instantes). La nariz es seductora. En boca Tarima Hill se muestra corpulento, potente y jugoso, con unos taninos marcados pero pulidos que sostienen su buena estructura y auguran una buena evolución. Cierra el recorrido un retrogusto con un suave amargor de chocolate negro; serio y elegante.",
-            "info_type": "Vino tinto crianza"
-        },
-        "grape": "Monastrell",
-        "name": "Tarima Hill 2014",
-        "owner": "Bodegas Volver",
-        "points": "4.25 de 5 estrellas. Basado en 8 opiniones de cliente",
-        "price": "10,20 €",
-        "type": "Vino tinto crianza, Alicante (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "14,5%",
-            "info_bottle": "0,75 L",
-            "info_do": "Ribera del Duero",
-            "info_elaboration": "Envejecimiento: Fermentación maloláctica en barricas nuevas de roble francés. Envejecido durante 12 meses en barricas de roble francés.",
-            "info_grape": "Tempranillo",
-            "info_owner": "Viñedos Alonso del Yerro",
-            "info_pairing": "Secreto ibérico / quesos de oveja / filete de buey",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 18ºC",
-            "info_text": "El Alonso del Yerro es el vino estandarte de la bodega, su vino más seguido y admirado. En él se combinan la intensidad y la elegancia como en muy pocos vinos ribereños. Se elabora exclusivamente con uvas de tempranillo de viñas situadas a más de 800 metros de altitud y que datan de 1989. La heterogeneidad de los suelos, con el alto contenido en cal como común denominador, le aporta complejidad y carácter al vino. En bodega se maceraron las uvas con el mosto durante unos 25 días y la fermentación ocurrió con levaduras salvajes. La crianza se realizó en barricas de roble francés con tan sólo un 12% de madera nueva. A la vista luce atractivo color cereza intenso. En nariz sobresalen la fruta madura, la regaliz y las notas especiadas y cremosas de la barrica. La boca es de cuerpo medio-alto, fresca pero también concentrada. Las flores y la fruta roja madura del tempranillo se unen a unos magníficos tonos torrefactos para configurar un paso equilibrado y elegante, de taninos aterciopelados y buen recorrido, rematado por elegantes toques amargos. Un vino profundo e intenso, pero no amaderado que permite gozar de la esencia de la Ribera del Duero.",
-            "info_type": "Vino tinto crianza"
-        },
-        "grape": "Tempranillo",
-        "name": "Alonso del Yerro 2013",
-        "owner": "Viñedos Alonso del Yerro",
-        "points": "3.5 de 5 estrellas. Basado en 2 opiniones de cliente",
-        "price": "20,90 €",
-        "type": "Vino tinto crianza, Ribera del Duero (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "14,0%",
-            "info_bottle": "0,75 L",
-            "info_do": "Bierzo",
-            "info_grape": "Mencía",
-            "info_owner": "Vinos Valtuille",
-            "info_text": "Marcos se lanzó al mercado con este monovarietal de mencía, su vino joven, un vino expresivo en nariz, redondo y sabroso que, año tras año, ha ido ganando crédito en el mercado y el reconocimiento y la admiración de críticos y aficionados.",
-            "info_type": "Vino tinto joven"
-        },
-        "grape": "Mencía",
-        "name": "Pago de Valdoneje Mencía 2016",
-        "owner": "Vinos Valtuille",
-        "points": "3.5 de 5 estrellas. Basado en 4 opiniones de cliente",
-        "price": "6,55 €",
-        "type": "Vino tinto joven, Bierzo (España)"
-    },
-    {
-        "detailed": {
-            "info_alcohol": "14,5%",
-            "info_bottle": "0,75 L",
-            "info_do": "Priorat",
-            "info_elaboration": "Envejecimiento: Envejecido durante 12 meses en tinas de madera de roble francés de 7000 l.",
-            "info_grape": "Cariñena,   Garnacha,   Cabernet Sauvignon,   Merlot y Syrah",
-            "info_owner": "Les Cousins Marc & Adrià",
-            "info_pairing": "Ensaladas con carne / arroces / conejo / cocina mediterránea / ensaladas tibias / como aperitivo",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 15ºC y 17ºC",
-            "info_text": "Descubrir la excepcionalidad del terruño del Priorato sin tener que pagar un precio elevado por cada botella es cada día más fácil con iniciativas (por suerte, no la única) como la que nos ofrecen Marc y Adriá Pérez. Especialmente con su vino L'Inconscient, un vino que, desde la sencillez pero sin abandonar la complejidad ni la finura, nos permite disfrutar de ese \"otro\" Priorat, más accesible y, sobre todo, asequible. La familia Pérez es un referente ineludible en esta preciada denominación (Mas Martinet, Cims de Porrera), y Marc y Adriá vinifican los vinos de este proyecto tan personal en la emblemática bodega de Cims de Porrera; toda una carta de presentación, que completan con una etiqueta llamativa, original y artística, que servirá sin duda para atraer al público más joven. L'Inconscient es un vino fresco y alegre, pero también serio, complejo y profundo. La uva cariñena, que constituye un 30% del coupage del vino, parece tímida en copa; la primera impresión es de una nariz compacta, algo cerrada, pero al cabo del tiempo acaba desvelando sus virtudes (recomendamos abrir la botella al menos una media hora antes de beberlo). Una vez abierto, empiezan a desprenderse aromas de gran elegancia, desde frutas cogidas en el bosque (frutas silvestres, notas especiadas) a aromas aterciopelados (fragancia de rosas). Parece como si el vino despertara súbitamente tras un largo sueño. En boca reacciona de forma similar. Empieza con sensaciones algo secantes, pero con tiempo muestra incluso y toque dulzón y sabores de fresa. La fruta es de calidad, bien trabajada (maceraciones cortas), y el vino muy fácil de beber, limpio, franco, de tacto cremoso pero de trago ligero, con notas minerales, terrosas, una estructura tersa y una acidez refrescante bien integrada. Disfrútenlo, a consciencia.",
-            "info_type": "Vino tinto crianza"
-        },
-        "grape": "Cariñena,Garnacha,CabernetSauvignon,Merlot,Syrah",
-        "name": "Les Cousins L'Inconscient 2016",
-        "owner": "Les Cousins Marc & Adrià",
-        "points": "4.5 de 5 estrellas. Basado en 4 opiniones de cliente",
-        "price": "10,50 €",
-        "type": "Vino tinto crianza, Priorat (España)"
     },
     {
         "detailed": {
@@ -997,6 +634,8 @@
             "info_type": "Vino tinto joven con crianza"
         },
         "grape": "Tempranillo",
+        "hash": "01d14dc0e77394e374d86cbf0d48e8da",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/01d14dc0e77394e374d86cbf0d48e8da.jpg",
         "name": "La Enfermera de Toro 2015",
         "owner": "Hacienda Terra d'Uro",
         "points": "3.5 de 5 estrellas. Basado en 6 opiniones de cliente",
@@ -1005,63 +644,110 @@
     },
     {
         "detailed": {
-            "info_alcohol": "14,5%",
+            "info_alcohol": "13,5%",
             "info_bottle": "0,75 L",
-            "info_do": "Castilla y León",
-            "info_elaboration": "Envejecimiento: Envejecido durante 16 meses en barricas de roble francés y americano de distintas edades. Producción: 300000 botellas",
-            "info_grape": "Tempranillo y Syrah",
-            "info_owner": "Bodegas Mauro",
-            "info_pairing": "Risotto de setas silvestres / carnes a la brasa / cordero asado",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 18ºC Consumo y conservación: Para consumir ahora o conservar hasta 2021.",
-            "info_text": "Mariano García es una de las referencias obligadas en el mundo del vino en España. Responsable técnico de Bodegas Vega Sicilia durante 30 años, decidió independizarse en 1998 para dedicarse de pleno a sus proyectos personales. El primero de ellos fue Bodegas Mauro, consolidado con los años como una de las grandes bodegas de Castilla - León, apostando por producciones \"contenidas\" de gran calidad. Mauro representa a la perfección la fuerza y raza de los tintos castellanos. Su buen comportamiento como vino de guarda, unido a su fuerza y elegancia, lo sitúan como una excelente elección para aquellos que buscan confeccionar su propia bodega, sin duda, un vino a conocer y a tener. NOTA: Se recomienda decantar una hora antes de su consumo.",
-            "info_type": "Vino tinto crianza"
+            "info_do": "Rioja",
+            "info_elaboration": "Envejecimiento: Seis meses en cubas de roble americano y veinticuatro en barricas de 225 l. de roble americano y francés. Finalmente doce meses en botella antes de salir al mercado.",
+            "info_grape": "Tempranillo,   Garnacha,   Mazuelo y Graciano",
+            "info_owner": "Bodegas Muga",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 17ºC y 18ºC",
+            "info_text": "Este vino sintetiza pasado, presente y futuro en un mismo caldo. Por un lado toma de los vinos clásicos su capacidad de evolución, su complejidad y su exquisita elegancia, mientras que, por otro, hace evidente su marcado carácter frutal y sus toques frescos y especiados, más propios de vinos modernos.",
+            "info_type": "Vino tinto reserva"
         },
-        "grape": "Tempranillo,Syrah",
-        "name": "Mauro 2015",
-        "owner": "Bodegas Mauro",
-        "points": "4.2 de 5 estrellas. Basado en 5 opiniones de cliente",
-        "price": "25,95 €",
-        "type": "Vino tinto crianza, Castilla y León (España)"
+        "grape": "Tempranillo,Garnacha,Mazuelo,Graciano",
+        "hash": "c034c8d6fa367e58758bb5fc92f324f2",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/c034c8d6fa367e58758bb5fc92f324f2.jpg",
+        "name": "Muga Selección Especial 2010",
+        "owner": "Bodegas Muga",
+        "points": null,
+        "price": "26,90 €",
+        "type": "Vino tinto reserva, Rioja (España)"
     },
     {
         "detailed": {
             "info_alcohol": "14,0%",
             "info_bottle": "0,75 L",
             "info_do": "Rioja",
-            "info_elaboration": "Material de vinificación: Acero inoxidable Período de crianza: 24 meses Tipo de madera: Roble americano",
-            "info_grape": "Tempranillo,   Graciano y Mazuelo",
-            "info_owner": "Herederos del Marqués de Riscal",
-            "info_pairing": "Setas a la plancha / ternasco asado / aves de caza",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 18ºC",
-            "info_text": "El Reserva de Riscal es un auténtico clásico entre los clásicos. Las uvas con las que se elabora provienen mayoritariamente de cepas de la variedad tempranillo, plantadas con anterioridad a la década de los 70 sobre suelos arcillo-calcáreos de la Rioja alavesa. Los ligeros aportes de mazuelo y graciano suman frescor y algo de color al corte. El vino fermenta a temperatura controlada para después reposar durante dos años en barricas de roble americano, y alrededor de un año más en botella. Tras este largo reposo, llega a nuestra copas con un bonito color cereza y ribetes granates, sin mostrar todavía demasiados signos de evolución. En nariz desprende aromas de especias y cueros así como de fruta (piel de ciruelas negras), cacao y recuerdos tostados del roble. En boca es fino y elegante, de taninos delicados, tacto sedoso y oportuna acidez. Su final es largo, balsámico y comedidamente amargo.",
+            "info_elaboration": "Vendimia: Vendimia manual del 10 al 26 de octubre. Material de vinificación: Acero inoxidable Período de crianza: 16 meses Edad de las barricas: Nuevas y seminuevas Tipo de madera: Roble americano",
+            "info_grape": "Tempranillo,   Mazuelo,   Graciano y Garnacha",
+            "info_owner": "Marqués de Murrieta",
+            "info_pairing": "Asados / jamón / quesos semicurados / pescado al horno / bacalao / estofados de caza",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 18ºC Consumo y conservación: Para consumir ahora o conservar hasta 2024.",
+            "info_text": "Marqués de Murrieta es un vino excelente, armonioso, con una nariz fragante y femenina. La fruta refinada se combina a la perfección con las notas florales y los toques de roble precisamente medidos por unas manos expertas. Su boca es jugosa y rica, especiada con elegancia y levemente tostada. Sus taninos pasan desapercibidos gracias a su perfecta integración y su brillante acidez parece querer transportarnos a la Rioja de antaño. Los aromas más clásicos de tabaco y pimienta se trenzan con los recuerdos de piel de ciruelas y naranjas en un conjunto señorial que explica con rotundidad el porqué del prestigio de la bodega. Marqués de Murrieta Reserva es, sin duda, un ejemplo constante de la mejor calidad de Rioja y el vino que mejor define el estilo de esta histórica bodega: elegancia, equilibrio y regularidad. Tratándose del vino con la mayor producción de la casa, el Reserva de Murrieta constituye además un gran reto para los enólogos, quienes, con gran precisión y acierto, consiguen conjugar año tras año las distintas altitudes, suelos y uvas de la excepcional finca Ygay. Elaborado con un ensamblaje riojano clásico, mayoritariamente a base de tempranillo (93%), Murrieta Reserva incluye un pequeño pero significativo porcentaje de mazuelo (4%) que subraya muy agradablemente el frescor del conjunto. Es un vino que encarna el presente y el pasado de la bodega, y que aúna tradición y modernidad.",
             "info_type": "Vino tinto reserva"
         },
-        "grape": "Tempranillo,Graciano,Mazuelo",
-        "name": "Marqués de Riscal Reserva 2013",
-        "owner": "Herederos del Marqués de Riscal",
-        "points": "2.5 de 5 estrellas. Basado en 2 opiniones de cliente",
-        "price": "14,25 €",
+        "grape": "Tempranillo,Mazuelo,Graciano,Garnacha",
+        "hash": "b39eeaf5be7836e6f6b5cfa9ed99e68b",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/b39eeaf5be7836e6f6b5cfa9ed99e68b.jpg",
+        "name": "Marqués de Murrieta Reserva 2013",
+        "owner": "Marqués de Murrieta",
+        "points": "4.0 de 5 estrellas. Basado en 2 opiniones de cliente",
+        "price": "18,20 €",
         "type": "Vino tinto reserva, Rioja (España)"
     },
     {
         "detailed": {
-            "info_alcohol": "14,5%",
+            "info_alcohol": "15,0%",
             "info_bottle": "0,75 L",
-            "info_do": "Almansa",
-            "info_elaboration": "Envejecimiento: Envejecido durante 4 meses en barricas de roble francés.",
-            "info_grape": "Garnacha Tintorera y Monastrell",
-            "info_owner": "Bodegas Atalaya",
-            "info_pairing": "Quesos curados / legumbres / platos de pasta / guisos de carne / arroces / setas / embutidos / carnes blancas / carnes rojas",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 17ºC",
-            "info_text": "La mejor descripción para este vino la encontraríamos en la expresión de la cara de la persona que acaba de catarlo y se le comunica el precio que pagaría por una botella: unos cinco euros. Incredulidad al principio, asombro después, admiración al final. Si su primera impresión ya había sido positiva, juzgando el vino como bueno, muy frutal y expresivo, un vino maduro con agradables notas de crianza, cremosas, notas especiadas dulces... al saber el precio, el resumen es claro: excelente relación calidad-precio, un buen coupage de garnacha tintorera y monastrell, dos variedades autóctonas de la zona de Almansa.",
+            "info_do": "Alicante",
+            "info_elaboration": "Envejecimiento: Envejecido durante 14 meses en barricas de roble francés.",
+            "info_grape": "Monastrell",
+            "info_owner": "Bodegas Volver",
+            "info_pairing": "Barbacoas / arroces / platos consistentes / carnes al horno / embutidos ibéricos / carne de venado",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 15ºC y 17ºC",
+            "info_text": "Hay personas que parecen tener un don especial para encontrar las parcelas adecuadas y rodearse de grandes profesionales con el objeto de elaborar buenos vinos. Ya lo hemos dicho en repetidas ocasiones, Jorge Ordóñez es una de ellas. Pero es que además, este hombre y sus equipos son capaces de hacer llegar sus exquisitos vinos al gran público con unos precios de lo más asequibles. En Alicante, encontramos dos de los ejemplos más evidentes: un completísimo tinto por menos de 5 euros, el \"pequeño\" Tarima Monastrell, y un elegante, potente, complejo, serio y muy rico, por unos 10: Tarima Hill, no se lo pierdan. Tarima Hill se elabora con uvas monastrell exclusivamente; una uva autóctona capaz de resistir y adaptarse a extremas condiciones climáticas, así como a la escasez de lluvias, como las que encontramos en la zona alicantina. Son viñedos de edades comprendidas entre los 40 y los 75 años, plantados en vaso sobre suelos calcáreos y con unos rendimientos muy bajos. Unas características que se traducen, gracias al buen trabajo de Bodegas Volver, en un vino fresco y muy bien equilibrado. En copa presenta un color picota muy atractivo, capa media-alta. Esa viveza y una lágrima que desciende lentamente y tiñe la copa, además de una etiqueta que nos indica un 15% de alcohol, nos hace pensar que el vino será realmente poderoso. Y poderoso es, pero elegante también. No le tengamos miedo, esa densidad queda inmediatamente contrastada (y equilibrada) por un gran frescor en nariz y un rico abanico de aromas: fruta madura (arándanos, moras) y golosa, notas de especias dulces, suaves notas ahumadas, notas terrosas y un fondo mineral que gana protagonismo a medida que el vino va abriéndose en copa (recomendamos abrir la botella una hora antes de degustarlo y dejarlo reposar en copa unos instantes). La nariz es seductora. En boca Tarima Hill se muestra corpulento, potente y jugoso, con unos taninos marcados pero pulidos que sostienen su buena estructura y auguran una buena evolución. Cierra el recorrido un retrogusto con un suave amargor de chocolate negro; serio y elegante.",
+            "info_type": "Vino tinto crianza"
+        },
+        "grape": "Monastrell",
+        "hash": "c4ad8ef76e2afe350d0d93c325a0ea43",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/c4ad8ef76e2afe350d0d93c325a0ea43.jpg",
+        "name": "Tarima Hill 2015",
+        "owner": "Bodegas Volver",
+        "points": null,
+        "price": "10,20 €",
+        "type": "Vino tinto crianza, Alicante (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "13,5%",
+            "info_bottle": "1,50 L",
+            "info_do": "Ribera del Duero",
+            "info_elaboration": "Envejecimiento: Envejecido durante 12 meses en barricas de roble americano.",
+            "info_grape": "Tempranillo",
+            "info_owner": "Matarromera",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 18ºC",
+            "info_text": "Las uvas de tempranillo con las que se elabora el Matarromera Crianza, el tinto por excelencia de la bodega, proceden de viñedos plantados en 1993 en los suelos franco arcillosos de Valbuena de Duero y Olivares de Duero. Allí, a una altitud algo superior a los 700 msnm, los frutos de las cepas se benefician de los contrastes térmicos para adquirir la concentración que después les permitirá convertirse en un gran vino. El Matarromera Crianza es una muestra palpable del respeto al equilibrio fruta-madera que caracteriza a la bodega. Se cría durante 12 meses en barricas de 225 litros de roble americano de grano fino y tostado medio de bosques de los Montes Apalaches. Durante su crianza, el vino permanecerá en salas de humedad controlada e iluminación tenue y se seguirá con detalle su evolución. A la mitad de su crianza se realiza un trasiego y se devuelve el vino de nuevo a barrica hasta finalizar la crianza. Antes de salir al mercado, descansará 10 meses más en botella hasta su completo afinamiento. Tempranillo 100% exhibe color rojo picota muy subido con abundantes tonos violáceos. Sus aromas son intensos y de gran complejidad, destacando los recuerdos de frutas silvestres muy maduras en armonía con los nobles apuntes especiados de la madera nueva. En boca es un vino sabroso, de taninos redondos y paso generoso, con aromas de chocolate y regaliz por vía retronasal. Su final potente y largo acredita la elegancia e intensidad propia de los mejores tintos de la Ribera de Duero, así como el perfecto equilibrio entre fruta y madera que caracteriza a la Bodega Matarromera.",
+            "info_type": "Vino tinto crianza"
+        },
+        "grape": "Tempranillo",
+        "hash": "59aa15cc9ee14c6a0d9c588d21a9933e",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/59aa15cc9ee14c6a0d9c588d21a9933e.jpg",
+        "name": "Matarromera Crianza 2015 (Magnum)",
+        "owner": "Matarromera",
+        "points": null,
+        "price": "37,90 €",
+        "type": "Vino tinto crianza, Ribera del Duero (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "13,5%",
+            "info_bottle": "0,75 L",
+            "info_do": "Valencia",
+            "info_elaboration": "Envejecimiento: Criado durante 4 meses en barricas de roble francés. Resto de crianza en depósito de hormigón.",
+            "info_grape": "Garnacha",
+            "info_owner": "Bodega Rafael Cambra",
+            "info_pairing": "Arroces / risotto / platos de pasta / carnes con salsas cremosas / setas",
+            "info_recommendations": "Temperatura de servicio óptima: 16ºC",
             "info_type": "Vino tinto joven con crianza"
         },
-        "grape": "GarnachaTintorera,Monastrell",
-        "name": "Laya 2016",
-        "owner": "Bodegas Atalaya",
-        "points": "4.15 de 5 estrellas. Basado en 13 opiniones de cliente",
-        "price": "5,40 €",
-        "type": "Vino tinto joven con crianza, Almansa (España)"
+        "grape": "Garnacha",
+        "hash": "b02beb7b762b9e923cab7fbf080d1603",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/b02beb7b762b9e923cab7fbf080d1603.jpg",
+        "name": "Rafael Cambra El Soplo 2013",
+        "owner": "Bodega Rafael Cambra",
+        "points": "4.14 de 5 estrellas. Basado en 7 opiniones de cliente",
+        "price": "5,45 €",
+        "type": "Vino tinto joven con crianza, Valencia (España)"
     },
     {
         "detailed": {
@@ -1077,11 +763,75 @@
             "info_type": "Vino tinto joven con crianza"
         },
         "grape": "Syrah,CabernetSauvignon,Tempranillo",
+        "hash": "2244daaa1d68decf49a399f0bbd610a1",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/2244daaa1d68decf49a399f0bbd610a1.jpg",
         "name": "Habla del Silencio 2016",
         "owner": "Bodegas Habla",
         "points": "4.75 de 5 estrellas. Basado en 4 opiniones de cliente",
         "price": "10,50 €",
         "type": "Vino tinto joven con crianza, Extremadura (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "14,5%",
+            "info_bottle": "0,75 L",
+            "info_do": "Toro",
+            "info_elaboration": "Envejecimiento: Fermentación maloláctica en barrica (30% en barricas nuevas). Envejecido durante 14 meses en barricas de roble francés, nuevas (30%) y de un vino (70%).",
+            "info_grape": "Tinta de Toro",
+            "info_owner": "Teso La Monja",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 18ºC Consumo y conservación: Para consumir ahora o conservar hasta 2021.",
+            "info_text": "Almirez es un vino concentrado, con mucho cuerpo, elegante y potente, y a la vez fresco y frutoso, con la expresividad y la elegancia características de los vinos elaborados por esta familia, los Eguren, cuya experiencia cuenta ya con cinco generaciones de viticultores. Un vino que nunca defrauda, para tener siempre en casa, para disfrutar recién salido al mercado o conservar en bodega durante unos diez años; un vino largo y persistente, que nos permite disfrutar de la magia de la tinta de Toro a muy buen precio.",
+            "info_type": "Vino tinto crianza"
+        },
+        "grape": "TintadeToro",
+        "hash": "85ee1a5f534640a255d85de07a01dfe9",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/85ee1a5f534640a255d85de07a01dfe9.jpg",
+        "name": "Almirez 2015",
+        "owner": "Teso La Monja",
+        "points": "4.0 de 5 estrellas. Basado en 5 opiniones de cliente",
+        "price": "15,50 €",
+        "type": "Vino tinto crianza, Toro (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "14,0%",
+            "info_bottle": "0,75 L",
+            "info_do": "Bierzo",
+            "info_grape": "Mencía",
+            "info_owner": "Vinos Valtuille",
+            "info_text": "Marcos se lanzó al mercado con este monovarietal de mencía, su vino joven, un vino expresivo en nariz, redondo y sabroso que, año tras año, ha ido ganando crédito en el mercado y el reconocimiento y la admiración de críticos y aficionados.",
+            "info_type": "Vino tinto joven"
+        },
+        "grape": "Mencía",
+        "hash": "c37f0f91578a9e0e485ec5eb6cd36fa5",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/c37f0f91578a9e0e485ec5eb6cd36fa5.jpg",
+        "name": "Pago de Valdoneje Mencía 2016",
+        "owner": "Vinos Valtuille",
+        "points": "3.5 de 5 estrellas. Basado en 4 opiniones de cliente",
+        "price": "6,55 €",
+        "type": "Vino tinto joven, Bierzo (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "12,0%",
+            "info_bottle": "0,75 L",
+            "info_do": "Cava",
+            "info_elaboration": "Envejecimiento: Envejecido durante un período de entre 3 y 4 años. Producción: 300000 botellas",
+            "info_grape": "Xarel·lo,   Macabeo y Chardonnay",
+            "info_owner": "Gramona",
+            "info_pairing": "Todo tipo de platos",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 6ºC y 8ºC Consumo y conservación: Para consumir ahora o conservar hasta 2020.",
+            "info_text": "Un clásico intemporal, con un toque afrancesado y una elegancia que lo han convertido en un cava obligado en cualquier lista de vinos que se precie. Gramona Imperial es también el buque insignia de la casa, elegante, suntuoso y muy cercano a los champagnes franceses, a pesar de sólo contener un 10% de uva chardonnay. Elaborado a partir de un coupage de xarel·lo (50%), macabeo (40%) y chardonnay, Gramona Imperial es criado durante 48 meses en botella, un tiempo muy superior al requerido para un Gran Reserva, y se le añade una pequeña dosis de licor de expedición procedente de la solera centenaria de la propia bodega. Un símbolo de elegancia que ha hecho de este cava todo un clásico entre sus fieles consumidores y lo ha convertido en uno de los cavas más reconocidos a nivel mundial. De nariz intensa, con aromas a fruta de hueso y flores blancas, notas de panadería, de piel de cítricos, frutos secos y sutiles de recuerdos de tostadas, levaduras y mantequilla, todo ello en equilibrio. De entrada amable, amplia a su paso, cremoso. Burbujas aterciopeladas y un final refrescante que regresa a las flores blancas y la fruta sobre un fondo de panadería. Un cava con estructura que año tras año demuestra su personalidad y finura y de maridajes muy versátiles, desde el aperitivo hasta la sobremesa.",
+            "info_type": "Vino espumoso gran reserva"
+        },
+        "grape": "Xarel·lo,Macabeo,Chardonnay",
+        "hash": "4695c5d28142a2d848573d24c928e23b",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/4695c5d28142a2d848573d24c928e23b.jpg",
+        "name": "Gramona Imperial Gran Reserva 2012",
+        "owner": "Gramona",
+        "points": "4.75 de 5 estrellas. Basado en 4 opiniones de cliente",
+        "price": "18,50 €",
+        "type": "Vino espumoso gran reserva, Cava (España)"
     },
     {
         "detailed": {
@@ -1096,10 +846,230 @@
             "info_type": "Vino espumoso reserva"
         },
         "grape": "Macabeo,Xarel·lo,Parellada,Monastrell",
+        "hash": "e1a8c76829c9fc2debdafc449965f166",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/e1a8c76829c9fc2debdafc449965f166.jpg",
         "name": "Raventós i Blanc de Nit 2015",
         "owner": "Raventós i Blanc",
         "points": "5.0 de 5 estrellas. Basado en 2 opiniones de cliente",
-        "price": "12,56 €",
+        "price": "13,95 €",
         "type": "Vino espumoso reserva, Vinos sin IG (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "12,5%",
+            "info_bottle": "0,75 L",
+            "info_do": "Rías Baixas",
+            "info_elaboration": "Vendimia: Las lluvias que se produjeron a principios de septiembre, antes de la vendimia, consiguieron una excelente maduración que nos proporcionó mostos con buen nivel de azúcar y suave acidez.</p> <p>El albariño se vendimia temprano entre el 19 y el 23 de septiembre y el Caíño es la última variedad que se recoge, entre el 29 de septiembre y el 3 de octubre, siendo la más tardía. El Loureiro del 26 al 28 de septiembre. Producción: 915000 botellas",
+            "info_grape": "Albariño,   Caiño Blanco y Loureiro",
+            "info_owner": "Bodegas Terras Gauda",
+            "info_pairing": "Ostras / marisco / pescado a la plancha",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 10ºC y 12ºC Decantación: No es necesario decantar",
+            "info_text": "El buque insignia de la bodega y un blanco original y con carácter elaborado a partir de una sabia mezcla de variedades autóctonas: albariño, caiño blanco y loureiro.",
+            "info_type": "Vino blanco sin crianza"
+        },
+        "grape": "Albariño,CaiñoBlanco,Loureiro",
+        "hash": "8a2c83f5bea7865d59b8f36a08dceafe",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/8a2c83f5bea7865d59b8f36a08dceafe.jpg",
+        "name": "Terras Gauda 2016",
+        "owner": "Bodegas Terras Gauda",
+        "points": "4.5 de 5 estrellas. Basado en 4 opiniones de cliente",
+        "price": "12,50 €",
+        "type": "Vino blanco sin crianza, Rías Baixas (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "14,5%",
+            "info_bottle": "0,75 L",
+            "info_do": "Almansa",
+            "info_elaboration": "Envejecimiento: Envejecido durante 4 meses en barricas de roble francés.",
+            "info_grape": "Garnacha Tintorera y Monastrell",
+            "info_owner": "Bodegas Atalaya",
+            "info_pairing": "Quesos curados / legumbres / platos de pasta / guisos de carne / arroces / setas / embutidos / carnes blancas / carnes rojas",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 17ºC",
+            "info_text": "La mejor descripción para este vino la encontraríamos en la expresión de la cara de la persona que acaba de catarlo y se le comunica el precio que pagaría por una botella: unos cinco euros. Incredulidad al principio, asombro después, admiración al final. Si su primera impresión ya había sido positiva, juzgando el vino como bueno, muy frutal y expresivo, un vino maduro con agradables notas de crianza, cremosas, notas especiadas dulces... al saber el precio, el resumen es claro: excelente relación calidad-precio, un buen coupage de garnacha tintorera y monastrell, dos variedades autóctonas de la zona de Almansa.",
+            "info_type": "Vino tinto joven con crianza"
+        },
+        "grape": "GarnachaTintorera,Monastrell",
+        "hash": "6837d16c95bb22ee5eb872491e26afc2",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/6837d16c95bb22ee5eb872491e26afc2.jpg",
+        "name": "Laya 2016",
+        "owner": "Bodegas Atalaya",
+        "points": "4.2 de 5 estrellas. Basado en 15 opiniones de cliente",
+        "price": "5,40 €",
+        "type": "Vino tinto joven con crianza, Almansa (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "13,0%",
+            "info_bottle": "0,75 L",
+            "info_do": "Rueda",
+            "info_elaboration": "Material de vinificación: Acero inoxidable Período de crianza: 2 meses",
+            "info_grape": "Verdejo",
+            "info_owner": "Ossian",
+            "info_pairing": "Ahumados / canapés / arroces de pescado / ensaladas con flores",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 7ºC y 10ºC Decantación: No es necesario decantar",
+            "info_text": "Quintaluna es un vino de nariz frutal y limpia, pero huyendo de las frutas tropicales. Sus aromas son de flores blancas, frutas de hueso (melocotón) y cítricos (limón, mandarina), aunque de intensidad media, ya que el objetivo de la bodega es potenciar más los matices y la finura por encima de la potencia aromática. En boca se muestra complejo, con la intensidad que le otorgan las viñas prefiloxéricas de bajo rendimiento, graso y profundo. Su buena acidez natural queda patente en la frescura y su longitud en boca. Se percibe claramente la variedad verdejo, con sus sabores más típicos de almendra y fruta madura. Además exhibe un agradable matiz de hierba fresca sobre un fondo anisado. Un vino elegante y con personalidad, que destaca en su gama de precio. Quintaluna se elabora en un 60% de uva verdejo muy vieja, prefiloxérica, y en un 40% de uva joven propia, cultivada en espaldera, con certificado ecológico y bajo rendimiento.",
+            "info_type": "Vino blanco sin crianza"
+        },
+        "grape": "Verdejo",
+        "hash": "dcb0fb8a2aacf65227a12e097a14c5d1",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/dcb0fb8a2aacf65227a12e097a14c5d1.jpg",
+        "name": "Quintaluna 2016",
+        "owner": "Ossian",
+        "points": "5.0 de 5 estrellas. Basado en 1 opiniones de cliente",
+        "price": "8,70 €",
+        "type": "Vino blanco sin crianza, Rueda (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "13,0%",
+            "info_bottle": "0,75 L",
+            "info_do": "Rueda",
+            "info_grape": "Verdejo",
+            "info_owner": "Bodegas Protos",
+            "info_pairing": "Arroces de pescado / platos de pasta / pescados / marisco / crustáceos / quesos frescos / verduras / sopas",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 6ºC y 8ºC",
+            "info_text": "Un verdejo fresco y frutal que viene a completar la gama de la decana de tintos de la Ribera del Duero.",
+            "info_type": "Vino blanco sin crianza"
+        },
+        "grape": "Verdejo",
+        "hash": "71ceddc392834146281990a9943cd94f",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/71ceddc392834146281990a9943cd94f.jpg",
+        "name": "Protos Verdejo 2016",
+        "owner": "Bodegas Protos",
+        "points": "4.45 de 5 estrellas. Basado en 11 opiniones de cliente",
+        "price": "5,95 €",
+        "type": "Vino blanco sin crianza, Rueda (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "14,0%",
+            "info_bottle": "0,75 L",
+            "info_do": "Rioja",
+            "info_elaboration": "Material de vinificación: Acero inoxidable Período de crianza: 24 meses Tipo de madera: Roble americano",
+            "info_grape": "Tempranillo,   Graciano y Mazuelo",
+            "info_owner": "Herederos del Marqués de Riscal",
+            "info_pairing": "Setas a la plancha / ternasco asado / aves de caza",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 18ºC",
+            "info_text": "El Reserva de Riscal es un auténtico clásico entre los clásicos. Las uvas con las que se elabora provienen mayoritariamente de cepas de la variedad tempranillo, plantadas con anterioridad a la década de los 70 sobre suelos arcillo-calcáreos de la Rioja alavesa. Los ligeros aportes de mazuelo y graciano suman frescor y algo de color al corte. El vino fermenta a temperatura controlada para después reposar durante dos años en barricas de roble americano, y alrededor de un año más en botella. Tras este largo reposo, llega a nuestra copas con un bonito color cereza y ribetes granates, sin mostrar todavía demasiados signos de evolución. En nariz desprende aromas de especias y cueros así como de fruta (piel de ciruelas negras), cacao y recuerdos tostados del roble. En boca es fino y elegante, de taninos delicados, tacto sedoso y oportuna acidez. Su final es largo, balsámico y comedidamente amargo.",
+            "info_type": "Vino tinto reserva"
+        },
+        "grape": "Tempranillo,Graciano,Mazuelo",
+        "hash": "52408fa5b67eac8ce8fabfaa3c74f628",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/52408fa5b67eac8ce8fabfaa3c74f628.jpg",
+        "name": "Marqués de Riscal Reserva 2013",
+        "owner": "Herederos del Marqués de Riscal",
+        "points": "2.5 de 5 estrellas. Basado en 2 opiniones de cliente",
+        "price": "14,25 €",
+        "type": "Vino tinto reserva, Rioja (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "14,5%",
+            "info_bottle": "0,75 L",
+            "info_do": "Priorat",
+            "info_elaboration": "Envejecimiento: Envejecido durante 12 meses en tinas de madera de roble francés de 7000 l.",
+            "info_grape": "Cariñena,   Garnacha,   Cabernet Sauvignon,   Merlot y Syrah",
+            "info_owner": "Les Cousins Marc & Adrià",
+            "info_pairing": "Ensaladas con carne / arroces / conejo / cocina mediterránea / ensaladas tibias / como aperitivo",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 15ºC y 17ºC",
+            "info_text": "Descubrir la excepcionalidad del terruño del Priorato sin tener que pagar un precio elevado por cada botella es cada día más fácil con iniciativas (por suerte, no la única) como la que nos ofrecen Marc y Adriá Pérez. Especialmente con su vino L'Inconscient, un vino que, desde la sencillez pero sin abandonar la complejidad ni la finura, nos permite disfrutar de ese \"otro\" Priorat, más accesible y, sobre todo, asequible. La familia Pérez es un referente ineludible en esta preciada denominación (Mas Martinet, Cims de Porrera), y Marc y Adriá vinifican los vinos de este proyecto tan personal en la emblemática bodega de Cims de Porrera; toda una carta de presentación, que completan con una etiqueta llamativa, original y artística, que servirá sin duda para atraer al público más joven. L'Inconscient es un vino fresco y alegre, pero también serio, complejo y profundo. La uva cariñena, que constituye un 30% del coupage del vino, parece tímida en copa; la primera impresión es de una nariz compacta, algo cerrada, pero al cabo del tiempo acaba desvelando sus virtudes (recomendamos abrir la botella al menos una media hora antes de beberlo). Una vez abierto, empiezan a desprenderse aromas de gran elegancia, desde frutas cogidas en el bosque (frutas silvestres, notas especiadas) a aromas aterciopelados (fragancia de rosas). Parece como si el vino despertara súbitamente tras un largo sueño. En boca reacciona de forma similar. Empieza con sensaciones algo secantes, pero con tiempo muestra incluso y toque dulzón y sabores de fresa. La fruta es de calidad, bien trabajada (maceraciones cortas), y el vino muy fácil de beber, limpio, franco, de tacto cremoso pero de trago ligero, con notas minerales, terrosas, una estructura tersa y una acidez refrescante bien integrada. Disfrútenlo, a consciencia.",
+            "info_type": "Vino tinto crianza"
+        },
+        "grape": "Cariñena,Garnacha,CabernetSauvignon,Merlot,Syrah",
+        "hash": "d937c6318d3a82ae22d8a6e134ba3941",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/d937c6318d3a82ae22d8a6e134ba3941.jpg",
+        "name": "Les Cousins L'Inconscient 2016",
+        "owner": "Les Cousins Marc & Adrià",
+        "points": "4.5 de 5 estrellas. Basado en 4 opiniones de cliente",
+        "price": "10,50 €",
+        "type": "Vino tinto crianza, Priorat (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "13,5%",
+            "info_bottle": "0,75 L",
+            "info_do": "Rioja",
+            "info_elaboration": "Período de crianza: 18 meses Tipo de madera: Roble americano",
+            "info_grape": "Tempranillo",
+            "info_owner": "Bodegas Bilbaínas",
+            "info_pairing": "Arroces trufados / bistec a la pimienta / carnes ahumadas",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 18ºC Decantación: No es necesario decantar",
+            "info_text": "El Viña Pomal Reserva Centenario es de aquellos vinos que uno puede considerar como rioja imprescindible. Un estilo clásico y actual a su vez, elaborado por una de las grandes bodegas de la zona, ubicada además en el histórico Barrio de la Estación de Haro, un vino bien hecho, que complace. Se elabora con uvas de tempranillo que provienen exclusivamente de los viñedos que Bodegas Bilbaínas posee en Haro, muy cerca del río Ebro. En bodega, tras una cuidada selección de la uva, tiene lugar un largo proceso de maceración que proporciona un mosto de la máxima calidad. Tras la fermentación, el vino se cría en barricas de roble durante 18 meses y resta en botella durante un periodo de dos años antes de abandonar la bodega. Luce un bonito color cereza y alardea de nariz afrutada y balsámica, con las moras y el regaliz como grandes protagonistas. En boca es elegante y complejo, como cabe esperar de un buen reserva riojano. Largo, fino y balsámico. Como decíamos al empezar: un rioja imprescindible.",
+            "info_type": "Vino tinto reserva"
+        },
+        "grape": "Tempranillo",
+        "hash": "dc16304da4e6fd6a02df53626af0714b",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/dc16304da4e6fd6a02df53626af0714b.jpg",
+        "name": "Viña Pomal Reserva Centenario 2013",
+        "owner": "Bodegas Bilbaínas",
+        "points": null,
+        "price": "13,65 €",
+        "type": "Vino tinto reserva, Rioja (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "13,5%",
+            "info_bottle": "0,75 L",
+            "info_do": "Rioja",
+            "info_elaboration": "Material de vinificación: Madera Período de crianza: 20 meses Edad de las barricas: Nuevas Tipo de madera: Roble americano",
+            "info_grape": "Tempranillo",
+            "info_owner": "Barón de Ley",
+            "info_pairing": "Arroz con setas / asados / codornices al horno",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 16ºC y 18ºC Consumo y conservación: Para consumir ahora o conservar hasta 2021.",
+            "info_text": "En febrero de 2015, el panel de cata de la revista británica Decanter juzgó un total de 95 vinos riojanos de entre los cuales, el Barón de Ley Reserva fue calificado en primera posición con 95 puntos, logrando la calificación de excepcional. Fruta y complejidad encajan a la perfección en un vino que podríamos denominar el reserva del siglo XXI. Elaborado mayoritariamente a partir de uvas Tempraniillo procedentes de los viñedos que la bodega posee en Mendavia, una crianza de 20 meses en barricas nuevas de roble americano y sus 24 meses de reposo en botella le han hecho alcanzar su plenitud aromática y gustativa, convirtiéndolo en un verdadero regalo para el paladar y, porque no decirlo, para el bolsillo. De brillante color cereza de borde grana y lágrima densa y abundante, en nariz fascina por su intensidad frutal (frambuesas y moras) y los recuerdos perfectamente ensamblados de su noble y bien medida crianza. Los recuerdos de coco y caramelo se combinan con los tonos frescos de monte bajo perfilando una nariz perfectamente equilibrada y franca. Su entrada en boca es impactante y su paso voluminoso y untuoso, de taninos redondos y buena acidez. Las especias (pimienta, clavo y vainilla) y la fruta madura dominan el retronasal al tiempo que finos toques ahumados y delicados recuerdos a cacao cautivan desde un plano secundario. Su elegante y complejo bouquet deriva en un largo e intenso final adornado de frutos rojos y reminiscencias a bosque mediterráneo.",
+            "info_type": "Vino tinto reserva"
+        },
+        "grape": "Tempranillo",
+        "hash": "0a9b6dfc874f0d6c96c610d4f5e59cc5",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/0a9b6dfc874f0d6c96c610d4f5e59cc5.jpg",
+        "name": "Barón de Ley Reserva 2013",
+        "owner": "Barón de Ley",
+        "points": null,
+        "price": "9,95 €",
+        "type": "Vino tinto reserva, Rioja (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "12,5%",
+            "info_bottle": "0,75 L",
+            "info_do": "Rías Baixas",
+            "info_elaboration": "Vendimia: La vendimia se lleva a cabo de forma manual. Se transporta en pequeñas cajas de plástico a la bodega lo más rápido posible para evitar el deterioro de la uva y su calentamiento Material de vinificación: Acero inoxidable Producción: 80000 botellas",
+            "info_grape": "Albariño",
+            "info_owner": "Gerardo Méndez",
+            "info_pairing": "Marisco / ostras / pescado blanco / merluza",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 8ºC y 10ºC Consumo y conservación: Para consumir ahora o conservar hasta 2021.",
+            "info_text": "Blanco extraordinario no demasiado conocido fuera de tierras gallegas pero objeto de culto entre los entendidos. Pocos vinos españoles reúnen tanta elegancia y un perfume tan fascinante. Un albariño de libro al alcance de todos los bolsillos.",
+            "info_type": "Vino blanco sin crianza"
+        },
+        "grape": "Albariño",
+        "hash": "318ee843fc72dd9d114971093c9cfb85",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/318ee843fc72dd9d114971093c9cfb85.jpg",
+        "name": "Do Ferreiro 2016",
+        "owner": "Gerardo Méndez",
+        "points": "4.4 de 5 estrellas. Basado en 5 opiniones de cliente",
+        "price": "13,50 €",
+        "type": "Vino blanco sin crianza, Rías Baixas (España)"
+    },
+    {
+        "detailed": {
+            "info_alcohol": "11,5%",
+            "info_bottle": "0,75 L",
+            "info_do": "Cava",
+            "info_elaboration": "Envejecimiento: Envejecido entre 24 y 30 meses en rima.",
+            "info_grape": "Parellada,   Macabeo y Xarel·lo",
+            "info_owner": "Caves Rigol",
+            "info_pairing": "Marisco / crustáceos / ahumados / pescados / carnes suaves / arroces / platos de pasta / aperitivos / sobremesa",
+            "info_recommendations": "Temperatura de servicio óptima: Entre 5ºC y 7ºC",
+            "info_type": "Vino espumoso"
+        },
+        "grape": "Parellada,Macabeo,Xarel·lo",
+        "hash": "ef5c5b6e5f93d922e1467db2c5bebc8a",
+        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/ef5c5b6e5f93d922e1467db2c5bebc8a.jpg",
+        "name": "Rigol Brut Nature",
+        "owner": "Caves Rigol",
+        "points": "3.86 de 5 estrellas. Basado en 7 opiniones de cliente",
+        "price": "3,75 €",
+        "type": "Vino espumoso, Cava (España)"
     }
 ]
