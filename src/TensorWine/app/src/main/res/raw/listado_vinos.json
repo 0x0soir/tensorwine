@@ -1,26 +1,6 @@
 [
     {
         "detailed": {
-            "info_alcohol": "13,0%",
-            "info_bottle": "0,75 L",
-            "info_elaboration": "Envejecimiento: Criado, sobre lías, durante 3 meses en barricas de roble francés.",
-            "info_grape": "Godello",
-            "info_owner": "Dominio de Tares",
-            "info_pairing": "Aperitivos, tapas, pescados al horno, pastas y arroces.",
-            "info_recommendations": "Temperatura de servicio óptima: Entre 10ºC y 11ºC",
-            "info_type": "Blanco Fermentado en Barrica",
-            "info_do": "Bierzo(España)"
-        },
-        "grape": "Godello",
-        "name": "Godello 2015",
-        "image": "http://ns3261968.ip-5-39-77.eu:8000/media/Dominio de tares.jpg",
-        "owner": "Dominio de Tares",
-        "points": "3 de 5 estrellas. Basado en 1 opiniones de cliente",
-        "price": "12,50 €",
-        "type": "Blanco Fermentado en Barrica"
-    },
-    {
-        "detailed": {
             "info_alcohol": "14,0%",
             "info_bottle": "0,75 L",
             "info_do": "Ribera del Duero",
