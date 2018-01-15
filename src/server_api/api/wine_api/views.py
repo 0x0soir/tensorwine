@@ -27,7 +27,7 @@ def __get_wine_info(name):
 
     return {}
 
-def __get_wine_recommendations():
+def __get_wine_recommendations(min_rate, max_rate):
     json_data=open('../../build_wine_database/data.json').read()
 
     data = json.loads(json_data)
@@ -37,7 +37,7 @@ def __get_wine_recommendations():
     for i in data:
         html_response = {}
 
-        if (random.randint(1, 5) == 1):
+        if (random.randint(1, 2) == 1) and (float('0.0' if i['points'] == None else i['points'].split(' ')[0]) > min_rate) and (float('0.0' if i['points'] == None else i['points'].split(' ')[0]) < max_rate):
             html_response['status'] = 'match'
             html_response['wine_info'] = {
                 'wine_info': i
@@ -53,8 +53,8 @@ def __get_wine_recommendations():
 def index(request):
     return JsonResponse({'status':'error'})
 
-def recommendations(request):
-    return JsonResponse(__get_wine_recommendations(), safe=False)
+def recommendations(request, min_rate=2, max_rate=4):
+    return JsonResponse(__get_wine_recommendations(min_rate, max_rate), safe=False)
 
 @csrf_exempt
 def recognize_photo(request):
