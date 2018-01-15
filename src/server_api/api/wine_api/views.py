@@ -37,7 +37,7 @@ def __get_wine_recommendations(min_rate, max_rate):
     for i in data:
         html_response = {}
 
-        if (random.randint(1, 2) == 1) and (float('0.0' if i['points'] == None else i['points'].split(' ')[0]) > min_rate) and (float('0.0' if i['points'] == None else i['points'].split(' ')[0]) < max_rate):
+        if (random.randint(1, 2) == 1) and (float('0.0' if i['points'] == None else i['points'].split(' ')[0]) > float(min_rate)) and (float('0.0' if i['points'] == None else i['points'].split(' ')[0]) < float(max_rate)):
             html_response['status'] = 'match'
             html_response['wine_info'] = {
                 'wine_info': i
