@@ -48,6 +48,7 @@ public class Recommend extends AppCompatActivity {
     String[] wines;
     String[] images;
     String[] winesJson;
+    float selected_min, selected_max;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -71,15 +72,14 @@ public class Recommend extends AppCompatActivity {
         });
 
         seekbar2.setOnRangeChangedListener(new RangeSeekBar.OnRangeChangedListener() {
-            String min, max;
 
             @Override
             public void onRangeChanged(RangeSeekBar view, float min, float max, boolean isFromUser) {
                 if (isFromUser) {
                     seekbar2.setLeftProgressDescription(df.format(min));
                     seekbar2.setRightProgressDescription(df.format(max));
-                    this.min = df.format(min);
-                    this.max = df.format(max);
+                    selected_min = min;
+                    selected_max = max;
                 }
             }
 
@@ -90,7 +90,7 @@ public class Recommend extends AppCompatActivity {
 
             @Override
             public void onStopTrackingTouch(RangeSeekBar view, boolean isLeft) {
-                rank.setText("Rango seleccionado: ["+this.min+", "+this.max+"]");
+                rank.setText("Rango seleccionado: ["+df.format(selected_min)+", "+df.format(selected_max)+"]");
             }
         });
 
@@ -221,8 +221,17 @@ public class Recommend extends AppCompatActivity {
             /* Config petición */
             client.setResponseTimeout(20*1000);
 
+            String url;
+
+            if ((selected_min > 0) && (selected_max > 0)){
+                url = "http://ns3261968.ip-5-39-77.eu:8000/wine_api/recommendations/"+df.format(selected_min)+"/"+df.format(selected_max);
+            } else {
+                url = "http://ns3261968.ip-5-39-77.eu:8000/wine_api/recommendations";
+            }
+
             try {
-                client.get("http://ns3261968.ip-5-39-77.eu:8000/wine_api/recommendations", new TextHttpResponseHandler() {
+
+                client.get(url, new TextHttpResponseHandler() {
                     @Override
                     public void onFailure(int statusCode, Header[] headers, String responseString, Throwable throwable) {
                         serverResponse = null;
