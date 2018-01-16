@@ -122,7 +122,6 @@ public class Recommend extends AppCompatActivity {
     }
 
     private void btnNormal(MorphingButton btnMorph, int duration) {
-        Log.i("HOLA", "HOLA");
         MorphingButton.Params square = MorphingButton.Params.create()
                 .duration(integer(R.integer.mb_animation))
                 .cornerRadius(dimen(R.dimen.mb_corner_radius_2))
@@ -201,7 +200,7 @@ public class Recommend extends AppCompatActivity {
                 Log.i("EnviarImagen", "Error al enviar fichero");
 
                 Toast toast= Toast.makeText(getApplicationContext(),
-                        "Se ha producido un error al enviar la imagen", Toast.LENGTH_LONG);
+                        "Se ha producido un error al solicitar las recomendaciones", Toast.LENGTH_LONG);
 
                 toast.show();
             }
@@ -225,6 +224,8 @@ public class Recommend extends AppCompatActivity {
 
             if ((selected_min > 0) && (selected_max > 0)){
                 url = "http://ns3261968.ip-5-39-77.eu:8000/wine_api/recommendations/"+df.format(selected_min)+"/"+df.format(selected_max);
+                url = url.replace(',', '.');
+                Log.i(getClass().getSimpleName(), url);
             } else {
                 url = "http://ns3261968.ip-5-39-77.eu:8000/wine_api/recommendations";
             }
@@ -247,7 +248,7 @@ public class Recommend extends AppCompatActivity {
                 Log.i(getClass().getSimpleName(), serverResponse);
             }
             catch (Exception e){
-                Log.e(getClass().getSimpleName(), "Error al cargar las recomendaciones");
+                Log.e(getClass().getSimpleName(), "Error al cargar las recomendaciones "+e);
                 showError();
             }
             Log.i(getClass().getSimpleName(), "Return datos");
