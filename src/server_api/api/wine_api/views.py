@@ -22,7 +22,7 @@ def __get_wine_info(name):
     data = json.loads(json_data)
 
     for i in data:
-        if (i['name'].upper() == name.upper()):
+        if (i['hash'].upper() == name.upper()):
             return i
 
     return {}
